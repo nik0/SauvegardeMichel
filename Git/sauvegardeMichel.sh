@@ -4,7 +4,7 @@
 # ===========================
 
 # 📂 Dossier à sauvegarder
-REPO_DIR="/home/maurice"
+REPO_DIR="/home/michel"
 
 # ⏱️ Date pour le commit automatique
 DATE=$(date +"%Y-%m-%d %H:%M:%S")

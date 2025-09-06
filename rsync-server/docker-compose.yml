@@ -1,0 +1,12 @@
+services:
+  rsync:
+      build: .
+      container_name: rsync-server
+      ports:
+        - "873:873"
+      volumes:
+        - /mnt/disk1/media/:/data
+        - /mnt/disk2/media/Films:/mnt/disk2/media/Films
+        - ./rsyncd.conf:/etc/rsyncd.conf:ro
+        - ./rsyncd.secrets:/etc/rsyncd.secrets:ro
+      restart: unless-stopped

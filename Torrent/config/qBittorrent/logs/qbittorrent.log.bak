@@ -1,0 +1,646 @@
+(N) 2025-08-26T08:32:02 - qBittorrent v5.1.2 started. Process ID: 153
+(N) 2025-08-26T08:32:02 - Using config directory: /config/qBittorrent
+(N) 2025-08-26T08:32:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-26T08:32:02 - Peer ID: "-qB5120-"
+(I) 2025-08-26T08:32:02 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-26T08:32:02 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-26T08:32:02 - Local Peer Discovery support: ON
+(I) 2025-08-26T08:32:02 - Peer Exchange (PeX) support: ON
+(I) 2025-08-26T08:32:02 - Anonymous mode: OFF
+(I) 2025-08-26T08:32:02 - Encryption support: ON
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "172.23.0.2". Port: "TCP/6881"
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "172.23.0.2". Port: "UTP/6881"
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-26T08:32:02 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-26T08:32:02 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-26T08:32:03 - Using built-in WebUI.
+(W) 2025-08-26T08:32:03 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-26T08:32:03 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-08-26T08:32:32 - Couldn't download IP geolocation database file. Reason: The operation was canceled
+(W) 2025-08-26T08:33:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.23.0.1, username: admin
+(W) 2025-08-26T08:33:12 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.23.0.1, username: admin
+(W) 2025-08-26T08:33:34 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.23.0.1, username: admin
+(W) 2025-08-26T08:33:40 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.23.0.1, username: admin
+(N) 2025-08-26T08:59:29 - WebAPI login success. IP: ::ffff:172.23.0.1
+(N) 2025-08-26T09:16:18 - qBittorrent termination initiated
+(N) 2025-08-26T09:16:18 - Saving resume data completed.
+(N) 2025-08-26T09:16:18 - BitTorrent session successfully finished.
+(N) 2025-08-26T09:16:18 - qBittorrent is now ready to exit
+(N) 2025-08-26T09:16:50 - qBittorrent v5.1.2 started. Process ID: 147
+(N) 2025-08-26T09:16:50 - Using config directory: /config/qBittorrent
+(N) 2025-08-26T09:16:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-26T09:16:50 - Peer ID: "-qB5120-"
+(I) 2025-08-26T09:16:50 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-26T09:16:50 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-26T09:16:50 - Local Peer Discovery support: ON
+(I) 2025-08-26T09:16:50 - Peer Exchange (PeX) support: ON
+(I) 2025-08-26T09:16:50 - Anonymous mode: OFF
+(I) 2025-08-26T09:16:50 - Encryption support: ON
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "172.23.0.2". Port: "TCP/6881"
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "172.23.0.2". Port: "UTP/6881"
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-26T09:16:50 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-26T09:16:50 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-26T09:16:50 - Using built-in WebUI.
+(W) 2025-08-26T09:16:50 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-26T09:16:50 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-08-26T09:17:19 - Couldn't download IP geolocation database file. Reason: The operation was canceled
+(N) 2025-08-26T09:25:03 - qBittorrent termination initiated
+(N) 2025-08-26T09:25:03 - Saving resume data completed.
+(N) 2025-08-26T09:25:03 - BitTorrent session successfully finished.
+(N) 2025-08-26T09:25:03 - qBittorrent is now ready to exit
+(N) 2025-08-26T09:25:11 - qBittorrent v5.1.2 started. Process ID: 149
+(N) 2025-08-26T09:25:11 - Using config directory: /config/qBittorrent
+(N) 2025-08-26T09:25:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-26T09:25:11 - Peer ID: "-qB5120-"
+(I) 2025-08-26T09:25:11 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-26T09:25:11 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-26T09:25:11 - Local Peer Discovery support: ON
+(I) 2025-08-26T09:25:11 - Peer Exchange (PeX) support: ON
+(I) 2025-08-26T09:25:11 - Anonymous mode: OFF
+(I) 2025-08-26T09:25:11 - Encryption support: ON
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "172.23.0.2". Port: "TCP/6881"
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "172.23.0.2". Port: "UTP/6881"
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-26T09:25:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-26T09:25:11 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-26T09:25:11 - Using built-in WebUI.
+(W) 2025-08-26T09:25:11 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-26T09:25:11 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-26T09:25:13 - Successfully listening on IP. IP: "fe80::b581:9646:e100:142a%tun0". Port: "TCP/6881"
+(I) 2025-08-26T09:25:13 - Successfully listening on IP. IP: "fe80::b581:9646:e100:142a%tun0". Port: "UTP/6881"
+(I) 2025-08-26T09:25:13 - Successfully listening on IP. IP: "10.121.70.32". Port: "TCP/6881"
+(I) 2025-08-26T09:25:13 - Successfully listening on IP. IP: "10.121.70.32". Port: "UTP/6881"
+(W) 2025-08-26T09:25:35 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.23.0.1, username: admin
+(W) 2025-08-26T09:25:41 - Couldn't download IP geolocation database file. Reason: The operation was canceled
+(N) 2025-08-26T09:26:02 - WebAPI login success. IP: ::ffff:172.23.0.1
+(N) 2025-08-26T09:27:45 - WebAPI login success. IP: ::ffff:172.23.0.1
+(N) 2025-08-26T09:28:56 - Downloading torrent... Source: "http://checkmyip.torrentprivacy.com/#:~:text=Download%20test%20torrent-,file"
+(W) 2025-08-26T09:28:57 - Failed to add torrent. Source: "http://checkmyip.torrentprivacy.com/#:~:text=Download%20test%20torrent-,file". Reason: "expected value (list, dict, int or string) in bencoded string [bdecode:4]"
+(N) 2025-08-26T09:30:14 - Downloading torrent... Source: "http://checkmyip.torrentprivacy.com/#:~:text=Download%20test%20torrent-,file"
+(W) 2025-08-26T09:30:14 - Failed to add torrent. Source: "http://checkmyip.torrentprivacy.com/#:~:text=Download%20test%20torrent-,file". Reason: "expected value (list, dict, int or string) in bencoded string [bdecode:4]"
+(N) 2025-08-26T09:32:30 - Added new torrent. Torrent: "ipleak.net torrent detection"
+(N) 2025-08-26T09:37:40 - Added new torrent. Torrent: "World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD"
+(I) 2025-08-26T09:37:46 - Detected external IP. IP: "45.87.212.74"
+(I) 2025-08-26T09:46:34 - Found Python executable. Name: "python3". Version: "3.12.11"
+(N) 2025-08-26T09:54:35 - Torrent download finished. Torrent: "World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD"
+(N) 2025-08-26T10:43:41 - La traduction de l'IU Web pour les paramètres régionaux sélectionnés (fr) a été chargée avec succès.
+(N) 2025-08-26T10:47:55 - qBittorrent v5.1.2 a démarré. ID de processus : 252
+(N) 2025-08-26T10:47:55 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-08-26T10:47:55 - Arrêt de qBittorrent initié
+(N) 2025-08-26T10:47:55 - qBittorrent est maintenant prêt à quitter
+(N) 2025-08-26T10:47:59 - qBittorrent v5.1.2 a démarré. ID de processus : 256
+(N) 2025-08-26T10:47:59 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-08-26T10:47:59 - Arrêt de qBittorrent initié
+(N) 2025-08-26T10:47:59 - qBittorrent est maintenant prêt à quitter
+(N) 2025-08-26T10:58:21 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-26T14:59:53 - Arrêt de qBittorrent initié
+(N) 2025-08-26T14:59:53 - Sauvegarde des données de reprise complétée.
+(N) 2025-08-26T14:59:55 - Session BitTorrent correctement terminée.
+(N) 2025-08-26T14:59:55 - qBittorrent est maintenant prêt à quitter
+(N) 2025-08-26T15:00:24 - qBittorrent v5.1.2 a démarré. ID de processus : 150
+(N) 2025-08-26T15:00:24 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-08-26T15:00:24 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:6881,[::]:6881 »
+(I) 2025-08-26T15:00:24 - ID du pair :  « -qB5120- »
+(I) 2025-08-26T15:00:24 - Agent utilisateur HTTP : « qBittorrent/5.1.2 »
+(I) 2025-08-26T15:00:24 - Prise en charge de la table de hachage distribuée (DHT) : ACTIVÉE
+(I) 2025-08-26T15:00:24 - Prise en charge de la découverte de pairs sur le réseau local : ACTIVÉE
+(I) 2025-08-26T15:00:24 - Prise en charge des échanges entre pairs (PeX) : ACTIVÉE
+(I) 2025-08-26T15:00:24 - Mode anonyme : DÉSACTIVÉE
+(I) 2025-08-26T15:00:24 - Prise en charge du chiffrement : ACTIVÉE
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/6881 »
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/6881 »
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « 172.23.0.2 ». Port : « TCP/6881 »
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « 172.23.0.2 ». Port : « UTP/6881 »
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/6881 »
+(I) 2025-08-26T15:00:24 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/6881 »
+(N) 2025-08-26T15:00:24 - Torrent restauré. Torrent : « ipleak.net torrent detection »
+(N) 2025-08-26T15:00:24 - Torrent restauré. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD »
+(W) 2025-08-26T15:00:24 - Impossible de charger la base de données de géolocalisation des IP. Raison : No such file or directory
+(N) 2025-08-26T15:00:24 - Utilisation de l'IU Web intégrée.
+(N) 2025-08-26T15:00:24 - La traduction de l'IU Web pour les paramètres régionaux sélectionnés (fr) a été chargée avec succès.
+(N) 2025-08-26T15:00:24 - IU Web : En écoute sur l'adresse IP : *, port : 8080
+(W) 2025-08-26T15:00:24 - Échec de la restauration du torrent. Les fichiers ont probablement été déplacés ou le stockage n’est pas accessible. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD ». Raison : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD fast resume rejected. file_stat(/downloads/World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD/World Of Winx.S01.MULTI.1080p.WEB.x264-FTMVHD/World Of Winx.S01E02.MULTI.1080p.WEB.x264-FTMVHD.mkv): mismatching file size »
+(I) 2025-08-26T15:00:25 - Écoute réussie sur l’IP. IP : « fe80::1ebd:8433:d7db:379f%tun0 ». Port : « TCP/6881 »
+(I) 2025-08-26T15:00:25 - Écoute réussie sur l’IP. IP : « fe80::1ebd:8433:d7db:379f%tun0 ». Port : « UTP/6881 »
+(I) 2025-08-26T15:00:25 - Écoute réussie sur l’IP. IP : « 10.121.66.8 ». Port : « TCP/6881 »
+(I) 2025-08-26T15:00:25 - Écoute réussie sur l’IP. IP : « 10.121.66.8 ». Port : « UTP/6881 »
+(N) 2025-08-26T15:00:32 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-26T15:00:53 - Définir l'emplacement de l'IU Web: déplacement de « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD », de « /downloads » vers « /downloads/Series »
+(N) 2025-08-26T15:00:53 - Mise en file d’attente du déplacement du torrent. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD ». Source : « /downloads ». Destination : « /downloads/Series ».
+(N) 2025-08-26T15:00:53 - Démarrer le déplacement du torrent. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD ». Destination : « /downloads/Series »
+(N) 2025-08-26T15:00:53 - Déplacement du torrent réussi. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD ». Destination : « /downloads/Series »
+(I) 2025-08-26T15:00:53 - IP externe détectée. IP : « 45.87.212.59 »
+(W) 2025-08-26T15:00:53 - Impossible de télécharger la base de données de géolocalisation des IPs. Raison : L'opération a été annulée
+(N) 2025-08-26T19:26:40 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(I) 2025-08-27T04:02:24 - Écoute réussie sur l’IP. IP : « fe80::9b9c:b7e1:e463:69aa%tun0 ». Port : « TCP/6881 »
+(I) 2025-08-27T04:02:24 - Écoute réussie sur l’IP. IP : « fe80::9b9c:b7e1:e463:69aa%tun0 ». Port : « UTP/6881 »
+(I) 2025-08-27T04:02:24 - Écoute réussie sur l’IP. IP : « 10.125.166.8 ». Port : « TCP/6881 »
+(I) 2025-08-27T04:02:24 - Écoute réussie sur l’IP. IP : « 10.125.166.8 ». Port : « UTP/6881 »
+(I) 2025-08-27T04:02:36 - IP externe détectée. IP : « 146.70.101.42 »
+(N) 2025-08-27T08:42:58 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-27T08:44:53 - Ajout d’un nouveau torrent. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-08-27T08:47:47 - Ajout d’un nouveau torrent. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E12.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E07.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E02.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E03.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E16.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E13.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T08:54:44 - Ajout d’un nouveau torrent. Torrent : « SAKAMOTO.DAYS.S01E17.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:57:32 - Téléchargement du torrent terminé. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-08-27T08:59:08 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E12.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T08:59:52 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:00:35 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E07.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:01:16 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E02.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:01:59 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:02:41 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:03:23 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E03.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:04:04 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:04:46 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:06:02 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T09:08:29 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E16.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T09:09:50 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E13.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T09:11:08 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T09:11:47 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:12:35 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:13:17 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:14:01 - Téléchargement du torrent terminé. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-27T09:14:46 - Téléchargement du torrent terminé. Torrent : « SAKAMOTO.DAYS.S01E17.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-27T09:17:46 - Téléchargement du torrent terminé. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-08-27T09:38:54 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(I) 2025-08-27T11:50:08 - Prise en charge UPnP/NAT-PMP : ACTIVÉE
+(W) 2025-08-27T11:52:44 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.125.166.8]: no router found »
+(W) 2025-08-27T11:52:44 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.125.166.8]: no router found »
+(N) 2025-08-27T13:38:10 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-27T14:41:24 - Ajout d’un nouveau torrent. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-27T14:43:23 - Ajout d’un nouveau torrent. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(N) 2025-08-27T14:43:23 - Ajout d’un nouveau torrent. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-27T14:46:42 - Ajout d’un nouveau torrent. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-08-27T14:46:42 - Ajout d’un nouveau torrent. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(N) 2025-08-27T14:48:29 - Téléchargement du torrent terminé. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-27T14:57:44 - Téléchargement du torrent terminé. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-27T14:58:02 - Téléchargement du torrent terminé. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(I) 2025-08-27T15:00:52 - Écoute réussie sur l’IP. IP : « fe80::3bf7:9561:7034:721d%tun0 ». Port : « TCP/6881 »
+(I) 2025-08-27T15:00:52 - Écoute réussie sur l’IP. IP : « fe80::3bf7:9561:7034:721d%tun0 ». Port : « UTP/6881 »
+(I) 2025-08-27T15:00:52 - Écoute réussie sur l’IP. IP : « 10.126.94.40 ». Port : « TCP/6881 »
+(I) 2025-08-27T15:00:52 - Écoute réussie sur l’IP. IP : « 10.126.94.40 ». Port : « UTP/6881 »
+(I) 2025-08-27T15:00:55 - IP externe détectée. IP : « 146.70.107.9 »
+(N) 2025-08-27T15:03:23 - Téléchargement du torrent terminé. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(W) 2025-08-27T15:03:28 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.126.94.40]: no router found »
+(W) 2025-08-27T15:03:28 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.126.94.40]: no router found »
+(N) 2025-08-27T15:04:23 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10649,[::]:10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 172.23.0.2 ». Port : « TCP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 172.23.0.2 ». Port : « UTP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 10.126.94.40 ». Port : « TCP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « 10.126.94.40 ». Port : « UTP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « fe80::3bf7:9561:7034:721d%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-27T15:04:23 - Écoute réussie sur l’IP. IP : « fe80::3bf7:9561:7034:721d%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-27T15:04:35 - IP externe détectée. IP : « 146.70.107.9 »
+(W) 2025-08-27T15:06:59 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.126.94.40]: no router found »
+(W) 2025-08-27T15:06:59 - Échec du mappage du port UPnP/NAT-PMP. Message : « could not map port using UPnP[10.126.94.40]: no router found »
+(N) 2025-08-27T15:09:50 - Téléchargement du torrent terminé. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-08-27T15:51:47 - Torrent retiré. Torrent: "ipleak.net torrent detection"
+(N) 2025-08-27T16:03:08 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(I) 2025-08-27T17:21:42 - Prise en charge UPnP/NAT-PMP : DÉSACTIVÉE
+(N) 2025-08-27T18:15:53 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-27T18:37:54 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-27T19:29:43 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(I) 2025-08-28T04:02:24 - Écoute réussie sur l’IP. IP : « fe80::f873:2e45:640a:7066%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-28T04:02:24 - Écoute réussie sur l’IP. IP : « fe80::f873:2e45:640a:7066%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-28T04:02:24 - Écoute réussie sur l’IP. IP : « 10.126.94.19 ». Port : « TCP/10649 »
+(I) 2025-08-28T04:02:24 - Écoute réussie sur l’IP. IP : « 10.126.94.19 ». Port : « UTP/10649 »
+(I) 2025-08-28T04:02:32 - IP externe détectée. IP : « 146.70.107.18 »
+(N) 2025-08-28T09:06:41 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-28T09:14:14 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-28T11:03:04 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-28T15:48:23 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-28T20:40:23 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(I) 2025-08-29T04:02:08 - Écoute réussie sur l’IP. IP : « fe80::79f1:808b:aedc:3bda%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-29T04:02:08 - Écoute réussie sur l’IP. IP : « fe80::79f1:808b:aedc:3bda%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-29T04:02:08 - Écoute réussie sur l’IP. IP : « 10.121.70.10 ». Port : « TCP/10649 »
+(I) 2025-08-29T04:02:08 - Écoute réussie sur l’IP. IP : « 10.121.70.10 ». Port : « UTP/10649 »
+(I) 2025-08-29T04:02:29 - IP externe détectée. IP : « 45.87.212.70 »
+(N) 2025-08-29T14:24:21 - Authentification à l'API Web réussie. IP: ::ffff:172.23.0.1
+(N) 2025-08-29T15:53:20 - Arrêt de qBittorrent initié
+(N) 2025-08-29T15:53:20 - Sauvegarde des données de reprise complétée.
+(N) 2025-08-29T15:53:22 - Session BitTorrent correctement terminée.
+(N) 2025-08-29T15:53:22 - qBittorrent est maintenant prêt à quitter
+(N) 2025-08-29T15:55:29 - qBittorrent v5.1.2 a démarré. ID de processus : 149
+(N) 2025-08-29T15:55:29 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-08-29T15:55:29 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10649,[::]:10649 »
+(I) 2025-08-29T15:55:29 - ID du pair :  « -qB5120- »
+(I) 2025-08-29T15:55:29 - Agent utilisateur HTTP : « qBittorrent/5.1.2 »
+(I) 2025-08-29T15:55:29 - Prise en charge de la table de hachage distribuée (DHT) : ACTIVÉE
+(I) 2025-08-29T15:55:29 - Prise en charge de la découverte de pairs sur le réseau local : ACTIVÉE
+(I) 2025-08-29T15:55:29 - Prise en charge des échanges entre pairs (PeX) : ACTIVÉE
+(I) 2025-08-29T15:55:29 - Mode anonyme : DÉSACTIVÉE
+(I) 2025-08-29T15:55:29 - Prise en charge du chiffrement : ACTIVÉE
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10649 »
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10649 »
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « TCP/10649 »
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « UTP/10649 »
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10649 »
+(I) 2025-08-29T15:55:29 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10649 »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E17.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E03.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E16.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E13.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E02.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E12.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T15:55:29 - Torrent restauré. Torrent : « Sakamoto.Days.S01E07.MULTi.1080p.WEB.x264-FW »
+(W) 2025-08-29T15:55:29 - Impossible de charger la base de données de géolocalisation des IP. Raison : No such file or directory
+(N) 2025-08-29T15:55:29 - Utilisation de l'IU Web intégrée.
+(N) 2025-08-29T15:55:29 - La traduction de l'IU Web pour les paramètres régionaux sélectionnés (fr) a été chargée avec succès.
+(N) 2025-08-29T15:55:29 - IU Web : En écoute sur l'adresse IP : *, port : 8080
+(I) 2025-08-29T15:55:31 - Écoute réussie sur l’IP. IP : « fe80::da10:d029:233:72ed%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-29T15:55:31 - Écoute réussie sur l’IP. IP : « fe80::da10:d029:233:72ed%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-29T15:55:31 - Écoute réussie sur l’IP. IP : « 10.123.130.2 ». Port : « TCP/10649 »
+(I) 2025-08-29T15:55:31 - Écoute réussie sur l’IP. IP : « 10.123.130.2 ». Port : « UTP/10649 »
+(I) 2025-08-29T15:55:39 - IP externe détectée. IP : « 45.87.212.90 »
+(W) 2025-08-29T15:55:58 - Impossible de télécharger la base de données de géolocalisation des IPs. Raison : L'opération a été annulée
+(N) 2025-08-29T16:11:11 - qBittorrent v5.1.2 a démarré. ID de processus : 147
+(N) 2025-08-29T16:11:11 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-08-29T16:11:11 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10649,[::]:10649 »
+(I) 2025-08-29T16:11:11 - ID du pair :  « -qB5120- »
+(I) 2025-08-29T16:11:11 - Agent utilisateur HTTP : « qBittorrent/5.1.2 »
+(I) 2025-08-29T16:11:11 - Prise en charge de la table de hachage distribuée (DHT) : ACTIVÉE
+(I) 2025-08-29T16:11:11 - Prise en charge de la découverte de pairs sur le réseau local : ACTIVÉE
+(I) 2025-08-29T16:11:11 - Prise en charge des échanges entre pairs (PeX) : ACTIVÉE
+(I) 2025-08-29T16:11:11 - Mode anonyme : DÉSACTIVÉE
+(I) 2025-08-29T16:11:11 - Prise en charge du chiffrement : ACTIVÉE
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10649 »
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10649 »
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « TCP/10649 »
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « UTP/10649 »
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10649 »
+(I) 2025-08-29T16:11:11 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10649 »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E17.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E03.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E16.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E13.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E02.MULTi.1080p.WEB.x264-FW »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E12.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-08-29T16:11:11 - Torrent restauré. Torrent : « Sakamoto.Days.S01E07.MULTi.1080p.WEB.x264-FW »
+(W) 2025-08-29T16:11:11 - Impossible de charger la base de données de géolocalisation des IP. Raison : No such file or directory
+(N) 2025-08-29T16:11:11 - Utilisation de l'IU Web intégrée.
+(N) 2025-08-29T16:11:11 - La traduction de l'IU Web pour les paramètres régionaux sélectionnés (fr) a été chargée avec succès.
+(N) 2025-08-29T16:11:11 - IU Web : En écoute sur l'adresse IP : *, port : 8080
+(W) 2025-08-29T16:11:16 - Impossible de télécharger la base de données de géolocalisation des IPs. Raison : Le nom d'hôte distant est introuvable (nom d'hôte invalide)
+(I) 2025-08-29T16:11:48 - Écoute réussie sur l’IP. IP : « fe80::cf15:491f:defd:66a7%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-29T16:11:48 - Écoute réussie sur l’IP. IP : « fe80::cf15:491f:defd:66a7%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-29T16:11:48 - Écoute réussie sur l’IP. IP : « 10.129.72.68 ». Port : « TCP/10649 »
+(I) 2025-08-29T16:11:48 - Écoute réussie sur l’IP. IP : « 10.129.72.68 ». Port : « UTP/10649 »
+(I) 2025-08-29T16:13:28 - IP externe détectée. IP : « 149.36.50.139 »
+(N) 2025-08-29T17:09:55 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-08-29T17:20:29 - Ajout d’un nouveau torrent. Torrent : « Alien.Earth.S01E04.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T17:22:34 - Téléchargement du torrent terminé. Torrent : « Alien.Earth.S01E04.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-08-29T17:30:41 - Ajout d’un nouveau torrent. Torrent : « Foundation - S03E08 - Jouer sa peau 2160p.DV.HDR.x265-Amen.mkv »
+(N) 2025-08-29T17:31:23 - Téléchargement du torrent terminé. Torrent : « Foundation - S03E08 - Jouer sa peau 2160p.DV.HDR.x265-Amen.mkv »
+(N) 2025-08-29T17:37:55 - Ajout d’un nouveau torrent. Torrent : « Chief.of.War.S01E06.MULTi.2160p.WEBRiP.x265-KAF.mkv »
+(N) 2025-08-29T17:39:13 - Téléchargement du torrent terminé. Torrent : « Chief.of.War.S01E06.MULTi.2160p.WEBRiP.x265-KAF.mkv »
+(N) 2025-08-29T17:39:38 - Ajout d’un nouveau torrent. Torrent : « Dexter.Resurrection.S01E09.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-08-29T17:43:14 - Téléchargement du torrent terminé. Torrent : « Dexter.Resurrection.S01E09.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(I) 2025-08-29T18:23:59 - Écoute réussie sur l’IP. IP : « fe80::3e32:7166:13ff:6d50%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-29T18:23:59 - Écoute réussie sur l’IP. IP : « fe80::3e32:7166:13ff:6d50%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-29T18:23:59 - Écoute réussie sur l’IP. IP : « 10.121.66.4 ». Port : « TCP/10649 »
+(I) 2025-08-29T18:23:59 - Écoute réussie sur l’IP. IP : « 10.121.66.4 ». Port : « UTP/10649 »
+(I) 2025-08-29T18:24:00 - IP externe détectée. IP : « 45.87.212.61 »
+(N) 2025-08-29T18:24:33 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-08-29T19:11:55 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-08-29T21:00:38 - Écoute réussie sur l’IP. IP : « fe80::dd18:8a9d:fe62:5cdb%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-29T21:00:38 - Écoute réussie sur l’IP. IP : « fe80::dd18:8a9d:fe62:5cdb%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-29T21:00:38 - Écoute réussie sur l’IP. IP : « 10.123.130.39 ». Port : « TCP/10649 »
+(I) 2025-08-29T21:00:38 - Écoute réussie sur l’IP. IP : « 10.123.130.39 ». Port : « UTP/10649 »
+(I) 2025-08-29T21:20:28 - IP externe détectée. IP : « 45.87.212.89 »
+(I) 2025-08-30T03:24:03 - Écoute réussie sur l’IP. IP : « fe80::3cbe:7147:e8bf:de1a%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T03:24:03 - Écoute réussie sur l’IP. IP : « fe80::3cbe:7147:e8bf:de1a%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T03:24:03 - Écoute réussie sur l’IP. IP : « 10.126.94.8 ». Port : « TCP/10649 »
+(I) 2025-08-30T03:24:03 - Écoute réussie sur l’IP. IP : « 10.126.94.8 ». Port : « UTP/10649 »
+(I) 2025-08-30T03:24:37 - Écoute réussie sur l’IP. IP : « fe80::7897:cafb:64f5:9e27%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T03:24:37 - Écoute réussie sur l’IP. IP : « fe80::7897:cafb:64f5:9e27%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T03:24:37 - Écoute réussie sur l’IP. IP : « 10.121.70.31 ». Port : « TCP/10649 »
+(I) 2025-08-30T03:24:37 - Écoute réussie sur l’IP. IP : « 10.121.70.31 ». Port : « UTP/10649 »
+(I) 2025-08-30T03:25:08 - IP externe détectée. IP : « 45.87.212.70 »
+(I) 2025-08-30T04:04:36 - Écoute réussie sur l’IP. IP : « fe80::4eb5:faa:f407:b11%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:04:36 - Écoute réussie sur l’IP. IP : « fe80::4eb5:faa:f407:b11%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:04:36 - Écoute réussie sur l’IP. IP : « 10.122.246.10 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:04:36 - Écoute réussie sur l’IP. IP : « 10.122.246.10 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:04:39 - IP externe détectée. IP : « 193.27.14.186 »
+(I) 2025-08-30T04:44:20 - Écoute réussie sur l’IP. IP : « fe80::d0a0:a786:1cdc:7b54%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:44:20 - Écoute réussie sur l’IP. IP : « fe80::d0a0:a786:1cdc:7b54%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:44:20 - Écoute réussie sur l’IP. IP : « 10.123.130.7 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:44:20 - Écoute réussie sur l’IP. IP : « 10.123.130.7 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:44:43 - Écoute réussie sur l’IP. IP : « fe80::9f26:add5:2f2a:43ba%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:44:43 - Écoute réussie sur l’IP. IP : « fe80::9f26:add5:2f2a:43ba%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:44:43 - Écoute réussie sur l’IP. IP : « 10.121.70.9 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:44:43 - Écoute réussie sur l’IP. IP : « 10.121.70.9 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:45:18 - Écoute réussie sur l’IP. IP : « fe80::40c1:5bf5:d79d:f9f7%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:45:18 - Écoute réussie sur l’IP. IP : « fe80::40c1:5bf5:d79d:f9f7%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:45:18 - Écoute réussie sur l’IP. IP : « 10.129.72.13 ». Port : « TCP/10649 »
+(I) 2025-08-30T04:45:18 - Écoute réussie sur l’IP. IP : « 10.129.72.13 ». Port : « UTP/10649 »
+(I) 2025-08-30T04:45:19 - IP externe détectée. IP : « 149.36.50.142 »
+(N) 2025-08-30T09:44:11 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-08-30T16:30:06 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-08-31T03:15:20 - Écoute réussie sur l’IP. IP : « fe80::a6b4:5fd9:8afe:77b2%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-31T03:15:20 - Écoute réussie sur l’IP. IP : « fe80::a6b4:5fd9:8afe:77b2%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-31T03:15:20 - Écoute réussie sur l’IP. IP : « 10.129.72.31 ». Port : « TCP/10649 »
+(I) 2025-08-31T03:15:20 - Écoute réussie sur l’IP. IP : « 10.129.72.31 ». Port : « UTP/10649 »
+(I) 2025-08-31T03:15:59 - IP externe détectée. IP : « 149.36.50.141 »
+(I) 2025-08-31T04:04:03 - Écoute réussie sur l’IP. IP : « fe80::f82b:cc6b:b3fe:ac8d%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-31T04:04:03 - Écoute réussie sur l’IP. IP : « fe80::f82b:cc6b:b3fe:ac8d%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-31T04:04:03 - Écoute réussie sur l’IP. IP : « 10.127.96.22 ». Port : « TCP/10649 »
+(I) 2025-08-31T04:04:03 - Écoute réussie sur l’IP. IP : « 10.127.96.22 ». Port : « UTP/10649 »
+(I) 2025-08-31T04:04:31 - IP externe détectée. IP : « 87.249.132.213 »
+(I) 2025-08-31T11:32:36 - Écoute réussie sur l’IP. IP : « fe80::df1e:df5d:ecec:9da7%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-31T11:32:36 - Écoute réussie sur l’IP. IP : « fe80::df1e:df5d:ecec:9da7%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-31T11:32:36 - Écoute réussie sur l’IP. IP : « 10.121.70.5 ». Port : « TCP/10649 »
+(I) 2025-08-31T11:32:36 - Écoute réussie sur l’IP. IP : « 10.121.70.5 ». Port : « UTP/10649 »
+(I) 2025-08-31T11:46:21 - IP externe détectée. IP : « 45.87.212.73 »
+(I) 2025-08-31T12:47:58 - Écoute réussie sur l’IP. IP : « fe80::74a7:8221:da00:f4aa%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-31T12:47:58 - Écoute réussie sur l’IP. IP : « fe80::74a7:8221:da00:f4aa%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-31T12:47:58 - Écoute réussie sur l’IP. IP : « 10.129.72.45 ». Port : « TCP/10649 »
+(I) 2025-08-31T12:47:58 - Écoute réussie sur l’IP. IP : « 10.129.72.45 ». Port : « UTP/10649 »
+(I) 2025-08-31T13:05:32 - IP externe détectée. IP : « 149.36.50.145 »
+(I) 2025-08-31T13:42:09 - Écoute réussie sur l’IP. IP : « fe80::90f9:74f0:2ef5:ebe1%tun0 ». Port : « TCP/10649 »
+(I) 2025-08-31T13:42:09 - Écoute réussie sur l’IP. IP : « fe80::90f9:74f0:2ef5:ebe1%tun0 ». Port : « UTP/10649 »
+(I) 2025-08-31T13:42:09 - Écoute réussie sur l’IP. IP : « 10.121.66.4 ». Port : « TCP/10649 »
+(I) 2025-08-31T13:42:09 - Écoute réussie sur l’IP. IP : « 10.121.66.4 ». Port : « UTP/10649 »
+(I) 2025-08-31T13:46:20 - IP externe détectée. IP : « 45.87.212.60 »
+(I) 2025-09-01T03:36:29 - Écoute réussie sur l’IP. IP : « fe80::4ed1:926e:ee90:c9c%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T03:36:29 - Écoute réussie sur l’IP. IP : « fe80::4ed1:926e:ee90:c9c%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T03:36:29 - Écoute réussie sur l’IP. IP : « 10.123.130.19 ». Port : « TCP/10649 »
+(I) 2025-09-01T03:36:29 - Écoute réussie sur l’IP. IP : « 10.123.130.19 ». Port : « UTP/10649 »
+(I) 2025-09-01T03:37:16 - IP externe détectée. IP : « 45.87.212.91 »
+(I) 2025-09-01T04:04:15 - Écoute réussie sur l’IP. IP : « fe80::b3ba:66c3:b6ec:d4c%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T04:04:15 - Écoute réussie sur l’IP. IP : « fe80::b3ba:66c3:b6ec:d4c%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T04:04:15 - Écoute réussie sur l’IP. IP : « 10.129.80.22 ». Port : « TCP/10649 »
+(I) 2025-09-01T04:04:15 - Écoute réussie sur l’IP. IP : « 10.129.80.22 ». Port : « UTP/10649 »
+(I) 2025-09-01T04:04:44 - IP externe détectée. IP : « 87.249.132.113 »
+(I) 2025-09-01T04:05:03 - Écoute réussie sur l’IP. IP : « fe80::6370:b766:32f2:a3c9%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T04:05:03 - Écoute réussie sur l’IP. IP : « fe80::6370:b766:32f2:a3c9%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T04:05:03 - Écoute réussie sur l’IP. IP : « 10.126.94.25 ». Port : « TCP/10649 »
+(I) 2025-09-01T04:05:03 - Écoute réussie sur l’IP. IP : « 10.126.94.25 ». Port : « UTP/10649 »
+(I) 2025-09-01T04:05:51 - IP externe détectée. IP : « 146.70.107.26 »
+(I) 2025-09-01T06:21:26 - Écoute réussie sur l’IP. IP : « fe80::cfe1:de58:c63b:da35%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T06:21:26 - Écoute réussie sur l’IP. IP : « fe80::cfe1:de58:c63b:da35%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T06:21:26 - Écoute réussie sur l’IP. IP : « 10.122.246.40 ». Port : « TCP/10649 »
+(I) 2025-09-01T06:21:26 - Écoute réussie sur l’IP. IP : « 10.122.246.40 ». Port : « UTP/10649 »
+(I) 2025-09-01T06:43:26 - IP externe détectée. IP : « 193.27.14.187 »
+(N) 2025-09-01T08:42:39 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-09-01T10:06:35 - Écoute réussie sur l’IP. IP : « fe80::d4be:1d35:3967:48cb%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T10:06:35 - Écoute réussie sur l’IP. IP : « fe80::d4be:1d35:3967:48cb%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T10:06:35 - Écoute réussie sur l’IP. IP : « 10.121.66.24 ». Port : « TCP/10649 »
+(I) 2025-09-01T10:06:35 - Écoute réussie sur l’IP. IP : « 10.121.66.24 ». Port : « UTP/10649 »
+(I) 2025-09-01T10:21:19 - Écoute réussie sur l’IP. IP : « fe80::13bf:3b0a:c78b:653a%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T10:21:19 - Écoute réussie sur l’IP. IP : « fe80::13bf:3b0a:c78b:653a%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T10:21:19 - Écoute réussie sur l’IP. IP : « 10.126.94.49 ». Port : « TCP/10649 »
+(I) 2025-09-01T10:21:19 - Écoute réussie sur l’IP. IP : « 10.126.94.49 ». Port : « UTP/10649 »
+(I) 2025-09-01T12:54:12 - Écoute réussie sur l’IP. IP : « fe80::3dcd:2630:4c:e773%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T12:54:12 - Écoute réussie sur l’IP. IP : « fe80::3dcd:2630:4c:e773%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T12:54:12 - Écoute réussie sur l’IP. IP : « 10.121.70.45 ». Port : « TCP/10649 »
+(I) 2025-09-01T12:54:12 - Écoute réussie sur l’IP. IP : « 10.121.70.45 ». Port : « UTP/10649 »
+(N) 2025-09-01T19:39:55 - Arrêt de qBittorrent initié
+(N) 2025-09-01T19:39:55 - Sauvegarde des données de reprise complétée.
+(N) 2025-09-01T19:39:55 - Session BitTorrent correctement terminée.
+(N) 2025-09-01T19:39:56 - qBittorrent est maintenant prêt à quitter
+(N) 2025-09-01T21:50:01 - qBittorrent v5.1.2 a démarré. ID de processus : 144
+(N) 2025-09-01T21:50:01 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-09-01T21:50:01 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10649,[::]:10649 »
+(I) 2025-09-01T21:50:01 - ID du pair :  « -qB5120- »
+(I) 2025-09-01T21:50:01 - Agent utilisateur HTTP : « qBittorrent/5.1.2 »
+(I) 2025-09-01T21:50:01 - Prise en charge de la table de hachage distribuée (DHT) : ACTIVÉE
+(I) 2025-09-01T21:50:01 - Prise en charge de la découverte de pairs sur le réseau local : ACTIVÉE
+(I) 2025-09-01T21:50:01 - Prise en charge des échanges entre pairs (PeX) : ACTIVÉE
+(I) 2025-09-01T21:50:01 - Mode anonyme : DÉSACTIVÉE
+(I) 2025-09-01T21:50:01 - Prise en charge du chiffrement : ACTIVÉE
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10649 »
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10649 »
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « TCP/10649 »
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « UTP/10649 »
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10649 »
+(I) 2025-09-01T21:50:01 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10649 »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E09.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Alien.Earth.S01E04.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E17.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E03.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E16.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « World Of Winx.2016.INTEGRALE.MULTI.1080p.WEB.x264-FTMVHD »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E13.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Sakamoto.Days.S01E02.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E12.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-01T21:50:01 - Torrent restauré. Torrent : « Chief.of.War.S01E06.MULTi.2160p.WEBRiP.x265-KAF.mkv »
+(N) 2025-09-01T21:50:02 - Torrent restauré. Torrent : « Foundation - S03E08 - Jouer sa peau 2160p.DV.HDR.x265-Amen.mkv »
+(N) 2025-09-01T21:50:02 - Torrent restauré. Torrent : « Sakamoto.Days.S01E07.MULTi.1080p.WEB.x264-FW »
+(W) 2025-09-01T21:50:02 - Impossible de charger la base de données de géolocalisation des IP. Raison : No such file or directory
+(N) 2025-09-01T21:50:02 - Utilisation de l'IU Web intégrée.
+(N) 2025-09-01T21:50:02 - La traduction de l'IU Web pour les paramètres régionaux sélectionnés (fr) a été chargée avec succès.
+(N) 2025-09-01T21:50:02 - IU Web : En écoute sur l'adresse IP : *, port : 8080
+(I) 2025-09-01T21:50:03 - Écoute réussie sur l’IP. IP : « fe80::6e3f:a322:caf9:1a09%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-01T21:50:03 - Écoute réussie sur l’IP. IP : « fe80::6e3f:a322:caf9:1a09%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-01T21:50:03 - Écoute réussie sur l’IP. IP : « 10.129.72.74 ». Port : « TCP/10649 »
+(I) 2025-09-01T21:50:03 - Écoute réussie sur l’IP. IP : « 10.129.72.74 ». Port : « UTP/10649 »
+(I) 2025-09-01T21:50:05 - IP externe détectée. IP : « 149.36.50.146 »
+(W) 2025-09-01T21:50:31 - Impossible de télécharger la base de données de géolocalisation des IPs. Raison : L'opération a été annulée
+(I) 2025-09-02T04:04:19 - Écoute réussie sur l’IP. IP : « fe80::f35a:2f78:1a1b:8093%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:04:19 - Écoute réussie sur l’IP. IP : « fe80::f35a:2f78:1a1b:8093%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:04:19 - Écoute réussie sur l’IP. IP : « 10.125.166.9 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:04:19 - Écoute réussie sur l’IP. IP : « 10.125.166.9 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:04:47 - Écoute réussie sur l’IP. IP : « fe80::33e2:2ddf:4b94:cf00%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:04:47 - Écoute réussie sur l’IP. IP : « fe80::33e2:2ddf:4b94:cf00%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:04:47 - Écoute réussie sur l’IP. IP : « 10.125.166.20 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:04:47 - Écoute réussie sur l’IP. IP : « 10.125.166.20 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:05:49 - IP externe détectée. IP : « 146.70.101.54 »
+(I) 2025-09-02T04:33:59 - Écoute réussie sur l’IP. IP : « fe80::a65:6baa:6532:8a17%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:33:59 - Écoute réussie sur l’IP. IP : « fe80::a65:6baa:6532:8a17%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:33:59 - Écoute réussie sur l’IP. IP : « 10.127.96.24 ». Port : « TCP/10649 »
+(I) 2025-09-02T04:33:59 - Écoute réussie sur l’IP. IP : « 10.127.96.24 ». Port : « UTP/10649 »
+(I) 2025-09-02T04:34:33 - IP externe détectée. IP : « 87.249.132.210 »
+(N) 2025-09-02T04:48:12 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-09-02T08:04:56 - Écoute réussie sur l’IP. IP : « fe80::63ac:91fd:35ad:85c7%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-02T08:04:56 - Écoute réussie sur l’IP. IP : « fe80::63ac:91fd:35ad:85c7%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-02T08:04:56 - Écoute réussie sur l’IP. IP : « 10.127.96.20 ». Port : « TCP/10649 »
+(I) 2025-09-02T08:04:56 - Écoute réussie sur l’IP. IP : « 10.127.96.20 ». Port : « UTP/10649 »
+(I) 2025-09-02T09:09:02 - IP externe détectée. IP : « 87.249.132.210 »
+(N) 2025-09-02T16:32:14 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-09-02T18:39:51 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-09-02T18:40:12 - Ajout d’un nouveau torrent. Torrent : « Invasion.2021.S03E01.Ceux.qui.ne.sont.plus.la.MULTi.AD.2160p.WEB.DDP.Atmos.H265-THESYNDiCATE.mkv »
+(N) 2025-09-02T18:42:31 - Ajout d’un nouveau torrent. Torrent : « Invasion.2021.S03E02.Le.message.MULTi.AD.HDR.1080p.WEB.DDP.Atmos.x265-THESYNDiCATE.mkv »
+(N) 2025-09-02T18:44:00 - Téléchargement du torrent terminé. Torrent : « Invasion.2021.S03E02.Le.message.MULTi.AD.HDR.1080p.WEB.DDP.Atmos.x265-THESYNDiCATE.mkv »
+(N) 2025-09-02T18:45:19 - Téléchargement du torrent terminé. Torrent : « Invasion.2021.S03E01.Ceux.qui.ne.sont.plus.la.MULTi.AD.2160p.WEB.DDP.Atmos.H265-THESYNDiCATE.mkv »
+(I) 2025-09-03T04:05:02 - Écoute réussie sur l’IP. IP : « fe80::8678:6387:ed34:7977%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-03T04:05:02 - Écoute réussie sur l’IP. IP : « fe80::8678:6387:ed34:7977%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-03T04:05:02 - Écoute réussie sur l’IP. IP : « 10.121.66.11 ». Port : « TCP/10649 »
+(I) 2025-09-03T04:05:02 - Écoute réussie sur l’IP. IP : « 10.121.66.11 ». Port : « UTP/10649 »
+(I) 2025-09-03T04:06:00 - IP externe détectée. IP : « 45.87.212.57 »
+(I) 2025-09-03T04:12:33 - Écoute réussie sur l’IP. IP : « fe80::45a:344d:ce79:dda4%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-03T04:12:33 - Écoute réussie sur l’IP. IP : « fe80::45a:344d:ce79:dda4%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-03T04:12:33 - Écoute réussie sur l’IP. IP : « 10.121.66.9 ». Port : « TCP/10649 »
+(I) 2025-09-03T04:12:33 - Écoute réussie sur l’IP. IP : « 10.121.66.9 ». Port : « UTP/10649 »
+(I) 2025-09-03T04:13:20 - IP externe détectée. IP : « 45.87.212.57 »
+(I) 2025-09-03T06:12:52 - Écoute réussie sur l’IP. IP : « fe80::b854:7999:e976:b451%tun0 ». Port : « TCP/10649 »
+(I) 2025-09-03T06:12:52 - Écoute réussie sur l’IP. IP : « fe80::b854:7999:e976:b451%tun0 ». Port : « UTP/10649 »
+(I) 2025-09-03T06:12:52 - Écoute réussie sur l’IP. IP : « 10.121.70.8 ». Port : « TCP/10649 »
+(I) 2025-09-03T06:12:52 - Écoute réussie sur l’IP. IP : « 10.121.70.8 ». Port : « UTP/10649 »
+(N) 2025-09-03T07:50:09 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-09-03T09:31:49 - IP externe détectée. IP : « 45.87.212.77 »
+(N) 2025-09-03T10:11:21 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-09-03T10:11:40 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10477,[::]:10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « TCP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « UTP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 10.121.70.8 ». Port : « TCP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « 10.121.70.8 ». Port : « UTP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « fe80::b854:7999:e976:b451%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-03T10:11:40 - Écoute réussie sur l’IP. IP : « fe80::b854:7999:e976:b451%tun0 ». Port : « UTP/10477 »
+(I) 2025-09-03T10:12:10 - IP externe détectée. IP : « 45.87.212.77 »
+(N) 2025-09-03T17:49:44 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(N) 2025-09-03T17:55:55 - Ajout d’un nouveau torrent. Torrent : « Alien.Earth.S01E05.MULTi.VFF.SDR.2160p.WEBrip.EAC3.5.1.x265-TyHD.mkv »
+(N) 2025-09-03T17:57:15 - Téléchargement du torrent terminé. Torrent : « Alien.Earth.S01E05.MULTi.VFF.SDR.2160p.WEBrip.EAC3.5.1.x265-TyHD.mkv »
+(N) 2025-09-03T20:35:20 - Authentification à l'API Web réussie. IP: ::ffff:10.0.0.99
+(I) 2025-09-03T22:20:23 - Écoute réussie sur l’IP. IP : « fe80::2130:fc41:8577:1ad9%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-03T22:20:23 - Écoute réussie sur l’IP. IP : « fe80::2130:fc41:8577:1ad9%tun0 ». Port : « UTP/10477 »
+(I) 2025-09-03T22:20:23 - Écoute réussie sur l’IP. IP : « 10.126.94.25 ». Port : « TCP/10477 »
+(I) 2025-09-03T22:20:23 - Écoute réussie sur l’IP. IP : « 10.126.94.25 ». Port : « UTP/10477 »
+(I) 2025-09-03T22:20:25 - IP externe détectée. IP : « 146.70.107.18 »
+(I) 2025-09-04T04:04:51 - Écoute réussie sur l’IP. IP : « fe80::8a06:d7da:5da2:4122%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-04T04:04:51 - Écoute réussie sur l’IP. IP : « fe80::8a06:d7da:5da2:4122%tun0 ». Port : « UTP/10477 »
+(I) 2025-09-04T04:04:51 - Écoute réussie sur l’IP. IP : « 10.126.94.16 ». Port : « TCP/10477 »
+(I) 2025-09-04T04:04:51 - Écoute réussie sur l’IP. IP : « 10.126.94.16 ». Port : « UTP/10477 »
+(I) 2025-09-04T04:06:05 - IP externe détectée. IP : « 146.70.107.7 »
+(I) 2025-09-04T04:22:32 - Écoute réussie sur l’IP. IP : « fe80::d161:8d1e:5ebc:555d%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-04T04:22:32 - Écoute réussie sur l’IP. IP : « fe80::d161:8d1e:5ebc:555d%tun0 ». Port : « UTP/10477 »
+(I) 2025-09-04T04:22:32 - Écoute réussie sur l’IP. IP : « 10.121.70.25 ». Port : « TCP/10477 »
+(I) 2025-09-04T04:22:32 - Écoute réussie sur l’IP. IP : « 10.121.70.25 ». Port : « UTP/10477 »
+(I) 2025-09-04T04:23:10 - IP externe détectée. IP : « 45.87.212.75 »
+(I) 2025-09-04T05:25:00 - Écoute réussie sur l’IP. IP : « fe80::c339:ade2:589d:8706%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-04T05:25:00 - Écoute réussie sur l’IP. IP : « fe80::c339:ade2:589d:8706%tun0 ». Port : « UTP/10477 »
+(I) 2025-09-04T05:25:00 - Écoute réussie sur l’IP. IP : « 10.125.166.11 ». Port : « TCP/10477 »
+(I) 2025-09-04T05:25:00 - Écoute réussie sur l’IP. IP : « 10.125.166.11 ». Port : « UTP/10477 »
+(I) 2025-09-04T06:11:07 - IP externe détectée. IP : « 146.70.101.39 »
+(N) 2025-09-04T08:21:04 - Arrêt de qBittorrent initié
+(N) 2025-09-04T08:21:04 - Sauvegarde des données de reprise complétée.
+(N) 2025-09-04T08:21:04 - Session BitTorrent correctement terminée.
+(N) 2025-09-04T08:21:04 - qBittorrent est maintenant prêt à quitter
+(N) 2025-09-04T08:23:17 - qBittorrent v5.1.2 a démarré. ID de processus : 147
+(N) 2025-09-04T08:23:17 - Utilisation du dossier de configuration : /config/qBittorrent
+(N) 2025-09-04T08:23:17 - Tentative d’écoute sur la liste d’adresses IP suivante : « 0.0.0.0:10477,[::]:10477 »
+(I) 2025-09-04T08:23:17 - ID du pair :  « -qB5120- »
+(I) 2025-09-04T08:23:17 - Agent utilisateur HTTP : « qBittorrent/5.1.2 »
+(I) 2025-09-04T08:23:17 - Prise en charge de la table de hachage distribuée (DHT) : ACTIVÉE
+(I) 2025-09-04T08:23:17 - Prise en charge de la découverte de pairs sur le réseau local : ACTIVÉE
+(I) 2025-09-04T08:23:17 - Prise en charge des échanges entre pairs (PeX) : ACTIVÉE
+(I) 2025-09-04T08:23:17 - Mode anonyme : DÉSACTIVÉE
+(I) 2025-09-04T08:23:17 - Prise en charge du chiffrement : ACTIVÉE
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « TCP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 127.0.0.1 ». Port : « UTP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « TCP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 172.20.0.2 ». Port : « UTP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 10.123.130.11 ». Port : « TCP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « 10.123.130.11 ». Port : « UTP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « TCP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « ::1 ». Port : « UTP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « fe80::ad1c:e6d4:f55e:1362%tun0 ». Port : « TCP/10477 »
+(I) 2025-09-04T08:23:17 - Écoute réussie sur l’IP. IP : « fe80::ad1c:e6d4:f55e:1362%tun0 ». Port : « UTP/10477 »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Alien.Earth.S01E05.MULTi.VFF.SDR.2160p.WEBrip.EAC3.5.1.x265-TyHD.mkv »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Chief.of.War.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E01.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E14.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Foundation.S03E07.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E09.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E05.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E07.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E08.VOSTFR.FANSUB.HDR.DV.2160p.WEB.H265-TyHD.mkv »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E08.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E18.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E04.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Alien.Earth.S01E04.MULTi.HDR.DV.2160p.WEB.H265-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E06.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Dexter.Resurrection.S01E09.FASTSUB.VOSTFR.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-OSEF »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Foundation.2021.S03E01.MULTi.HDR.2160p.WEB.H265-SUPPLY »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Fate The Winx Saga S01 FRENCH 720p WEB DDP5.1 x264-FRATERNiTY »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E10.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « SAKAMOTO.DAYS.S01E15.MULTi.1080p.WEB.x264-TFA.mkv »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Fate.The.Winx.Saga.S02.MULTi.1080p.WEB.H264-FrIeNdS »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Sakamoto.Days.S01E11.MULTi.1080p.WEB.x264-FW »
+(N) 2025-09-04T08:23:17 - Torrent restauré. Torrent : « Invasion.2021.S03E02.Le.message.MULTi.AD.HDR.1080p.WEB.DDP.Atmos.x265-THESYNDiCATE.mkv »

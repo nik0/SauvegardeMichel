@@ -156,3 +156,58 @@ vi Upnp/port_forward.sh
 Upnp/port_forward.sh 
 top
 sudo reboot -n
+git status
+git push -u origin main
+ll .ssh/
+cat .ssh/id_ed25519.pub 
+git push -u origin main
+git remote add origin git@github.com:nik0/SauvegardeMichel.git
+git push -u origin main
+git config --global user.name "nik0"
+git config --global user.email "nicolas.ebele@gmail.com"
+git push -u origin main
+git remote set-url origin git@github.com:nik0/SauvegardeMichel.git
+git push -u origin main
+vi .gitignore 
+git status
+git add .gitignore Torrent/config/qBittorrent/qBittorrent-data.conf
+git commit --amend
+git push -f
+ll Git/
+cd Git/
+mv sauvegardeMaurice.sh sauvegardeMichel.sh 
+vi sauvegardeMichel.sh 
+crontab -e
+/home/michel/Git/sauvegardeMichel.sh .sh >> /home/michel/Git/backup_git.log 2>&1
+ll
+cat backup_git.log 
+crontab -e
+vi sauvegardeMichel.sh 
+/home/michel/Git/sauvegardeMichel.sh .sh >> /home/michel/Git/backup_git.log 2>&1
+cat backup_git.log 
+cd ..
+git status
+git pukk
+cat Git/sauvegardeMichel.sh 
+git pull --rebase origin main
+/home/michel/Git/sauvegardeMichel.sh .sh >> /home/michel/Git/backup_git.log 2>&1
+cat Git/sauvegardeMichel.sh 
+cat Git/backup_git.log 
+git config --global user.name Nik0
+git config --global user.email "nicolas.ebele@gmail.com"
+git init
+vi .gitignore 
+git add .
+du -sh .git
+git ls-files -s | awk '{print $4}' | xargs -I{} du -h {} 2>/dev/null | sort -h | tail -n 20
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nik0/SauvegardeMichel.git
+git push -u origin main
+vi .gitignore
+git rm -f --cached .ssh/
+git rm -rf --cached .ssh/
+git comit --amend
+git commit --amend
+git push -f

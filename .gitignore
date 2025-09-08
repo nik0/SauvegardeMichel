@@ -27,4 +27,5 @@ jdenv/
 .vscode-server/
 Telegram/jdvenv/
 node_exporter-1.8.1.linux-amd64/node_exporter
-
+.local/
+.bash_history

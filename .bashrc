@@ -115,3 +115,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Created by `pipx` on 2025-09-07 09:25:06
+export PATH="$PATH:/home/michel/.local/bin"

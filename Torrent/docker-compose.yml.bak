@@ -1,0 +1,38 @@
+
+services:
+  # VPN Gluetun (Windscribe)
+  gluetun:
+    image: qmcgaw/gluetun
+    container_name: gluetun
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun
+    environment:
+      - VPN_SERVICE_PROVIDER=windscribe
+      - OPENVPN_USER=nik0nik0_ne4v3qc
+      - OPENVPN_PASSWORD=c7xbhmsw9z
+      - SERVER_REGIONS=Germany   # ex: "France", "Germany", "Netherlands"
+      - TZ=Europe/Paris
+    volumes:
+      - ./gluetun:/gluetun
+    ports:
+      - 8081:8080     # WebUI qBittorrent
+      - 8999:8999     # Port TCP torrent
+      - 8999:8999/udp # Port UDP torrent
+    restart: unless-stopped
+
+  # Client torrent qBittorrent
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    network_mode: "service:gluetun"   # utilise le VPN
+    environment:
+      - PUID=1000     # adapte selon ton utilisateur Linux
+      - PGID=1000     # idem
+      - TZ=Europe/Paris
+      - WEBUI_PORT=8080
+    volumes:
+      - ./config:/config
+      - /mnt/disk1/media/:/downloads
+    restart: unless-stopped

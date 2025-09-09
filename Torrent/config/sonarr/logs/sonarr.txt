@@ -1,0 +1,393 @@
+2025-09-08 23:17:58.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.4|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:17:58.4|Info|RefreshSeriesService|Skipping refresh of series: Lovestruck in the City
+2025-09-08 23:17:58.4|Info|DiskScanService|Scanning Lovestruck in the City
+2025-09-08 23:17:58.4|Info|DiskScanService|Completed scanning disk for Lovestruck in the City
+2025-09-08 23:17:58.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.5|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:17:58.5|Info|RefreshSeriesService|Updating The Mandalorian
+2025-09-08 23:17:58.5|Info|RefreshEpisodeService|Starting episode info refresh for: [361753][The Mandalorian]
+2025-09-08 23:17:58.6|Info|RefreshEpisodeService|Finished episode refresh for series: [361753][The Mandalorian].
+2025-09-08 23:17:58.6|Info|DiskScanService|Scanning The Mandalorian
+2025-09-08 23:17:58.6|Info|DiskScanService|Completed scanning disk for The Mandalorian
+2025-09-08 23:17:58.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.6|Info|ExistingExtraFileService|Found 62 possible extra files, imported 36 files.
+2025-09-08 23:17:58.7|Info|RefreshSeriesService|Skipping refresh of series: Marvel's Ultimate Spider-Man
+2025-09-08 23:17:58.7|Info|DiskScanService|Scanning Marvel's Ultimate Spider-Man
+2025-09-08 23:17:58.7|Info|DiskScanService|Completed scanning disk for Marvel's Ultimate Spider-Man
+2025-09-08 23:17:58.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.7|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:17:58.7|Info|RefreshSeriesService|Updating Million Dollar Extreme Presents: Extreme Peace
+2025-09-08 23:17:58.7|Info|RefreshEpisodeService|Starting episode info refresh for: [465946][Million Dollar Extreme Presents: Extreme Peace]
+2025-09-08 23:17:58.8|Info|RefreshEpisodeService|Finished episode refresh for series: [465946][Million Dollar Extreme Presents: Extreme Peace].
+2025-09-08 23:17:58.8|Info|DiskScanService|Scanning Million Dollar Extreme Presents: Extreme Peace
+2025-09-08 23:17:58.8|Info|DiskScanService|Completed scanning disk for Million Dollar Extreme Presents: Extreme Peace
+2025-09-08 23:17:58.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.8|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:17:58.8|Info|RefreshSeriesService|Skipping refresh of series: Mischievous Kiss: Love in Tokyo
+2025-09-08 23:17:58.8|Info|DiskScanService|Scanning Mischievous Kiss: Love in Tokyo
+2025-09-08 23:17:58.8|Info|DiskScanService|Completed scanning disk for Mischievous Kiss: Love in Tokyo
+2025-09-08 23:17:58.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.8|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:17:58.8|Info|RefreshSeriesService|Skipping refresh of series: More Dawn French's Girls Who Do: Comedy
+2025-09-08 23:17:58.8|Info|DiskScanService|Scanning More Dawn French's Girls Who Do: Comedy
+2025-09-08 23:17:58.8|Info|DiskScanService|Completed scanning disk for More Dawn French's Girls Who Do: Comedy
+2025-09-08 23:17:58.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.8|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2025-09-08 23:17:58.8|Info|RefreshSeriesService|Skipping refresh of series: The Murders at Starved Rock
+2025-09-08 23:17:58.8|Info|DiskScanService|Scanning The Murders at Starved Rock
+2025-09-08 23:17:58.8|Info|DiskScanService|Completed scanning disk for The Murders at Starved Rock
+2025-09-08 23:17:58.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.9|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:17:58.9|Info|RefreshSeriesService|Skipping refresh of series: My Unique Skill Makes Me OP Even at Level 1
+2025-09-08 23:17:58.9|Info|DiskScanService|Scanning My Unique Skill Makes Me OP Even at Level 1
+2025-09-08 23:17:58.9|Info|DiskScanService|Completed scanning disk for My Unique Skill Makes Me OP Even at Level 1
+2025-09-08 23:17:58.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.9|Info|ExistingExtraFileService|Found 10 possible extra files, imported 6 files.
+2025-09-08 23:17:58.9|Info|RefreshSeriesService|Skipping refresh of series: Nalu Around the World by Bike
+2025-09-08 23:17:58.9|Info|DiskScanService|Scanning Nalu Around the World by Bike
+2025-09-08 23:17:58.9|Info|DiskScanService|Completed scanning disk for Nalu Around the World by Bike
+2025-09-08 23:17:58.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.9|Info|ExistingExtraFileService|Found 10 possible extra files, imported 2 files.
+2025-09-08 23:17:58.9|Info|RefreshSeriesService|Skipping refresh of series: Obi-Wan Kenobi
+2025-09-08 23:17:58.9|Info|DiskScanService|Scanning Obi-Wan Kenobi
+2025-09-08 23:17:58.9|Info|DiskScanService|Completed scanning disk for Obi-Wan Kenobi
+2025-09-08 23:17:58.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.9|Info|ExistingExtraFileService|Found 11 possible extra files, imported 8 files.
+2025-09-08 23:17:58.9|Info|RefreshSeriesService|Skipping refresh of series: Out of Stock: Supply Chain Crisis
+2025-09-08 23:17:58.9|Info|DiskScanService|Scanning Out of Stock: Supply Chain Crisis
+2025-09-08 23:17:58.9|Info|DiskScanService|Completed scanning disk for Out of Stock: Supply Chain Crisis
+2025-09-08 23:17:58.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:58.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:58.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:58.9|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2025-09-08 23:17:59.0|Info|RefreshSeriesService|Updating The Parisian Agency: Exclusive Properties
+2025-09-08 23:17:59.0|Info|RefreshEpisodeService|Starting episode info refresh for: [387749][The Parisian Agency: Exclusive Properties]
+2025-09-08 23:17:59.1|Info|RefreshEpisodeService|Finished episode refresh for series: [387749][The Parisian Agency: Exclusive Properties].
+2025-09-08 23:17:59.1|Info|DiskScanService|Scanning The Parisian Agency: Exclusive Properties
+2025-09-08 23:17:59.1|Info|DiskScanService|Completed scanning disk for The Parisian Agency: Exclusive Properties
+2025-09-08 23:17:59.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.1|Info|ExistingExtraFileService|Found 10 possible extra files, imported 6 files.
+2025-09-08 23:17:59.1|Info|RefreshSeriesService|Skipping refresh of series: Person of Interest
+2025-09-08 23:17:59.1|Info|DiskScanService|Scanning Person of Interest
+2025-09-08 23:17:59.1|Info|DiskScanService|Completed scanning disk for Person of Interest
+2025-09-08 23:17:59.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.2|Info|ExistingExtraFileService|Found 112 possible extra files, imported 109 files.
+2025-09-08 23:17:59.2|Info|RefreshSeriesService|Skipping refresh of series: Persons of Interest - The ASIO files
+2025-09-08 23:17:59.2|Info|DiskScanService|Scanning Persons of Interest - The ASIO files
+2025-09-08 23:17:59.2|Info|DiskScanService|Completed scanning disk for Persons of Interest - The ASIO files
+2025-09-08 23:17:59.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.2|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:17:59.2|Info|RefreshSeriesService|Updating The Proper Way to Write Love
+2025-09-08 23:17:59.4|Info|RefreshEpisodeService|Starting episode info refresh for: [464646][The Proper Way to Write Love]
+2025-09-08 23:17:59.4|Info|RefreshEpisodeService|Finished episode refresh for series: [464646][The Proper Way to Write Love].
+2025-09-08 23:17:59.4|Info|DiskScanService|Scanning The Proper Way to Write Love
+2025-09-08 23:17:59.4|Info|DiskScanService|Completed scanning disk for The Proper Way to Write Love
+2025-09-08 23:17:59.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.4|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2025-09-08 23:17:59.4|Info|RefreshSeriesService|Skipping refresh of series: The Real Football Factories International
+2025-09-08 23:17:59.4|Info|DiskScanService|Scanning The Real Football Factories International
+2025-09-08 23:17:59.4|Info|DiskScanService|Completed scanning disk for The Real Football Factories International
+2025-09-08 23:17:59.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.5|Info|ExistingExtraFileService|Found 44 possible extra files, imported 21 files.
+2025-09-08 23:17:59.5|Info|RefreshSeriesService|Skipping refresh of series: Resurrection: Ertugrul
+2025-09-08 23:17:59.5|Info|DiskScanService|Scanning Resurrection: Ertugrul
+2025-09-08 23:17:59.5|Info|DiskScanService|Completed scanning disk for Resurrection: Ertugrul
+2025-09-08 23:17:59.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.5|Info|ExistingExtraFileService|Found 4 possible extra files, imported 0 files.
+2025-09-08 23:17:59.5|Info|RefreshSeriesService|Updating SAKAMOTO DAYS
+2025-09-08 23:17:59.6|Info|RefreshEpisodeService|Starting episode info refresh for: [423732][SAKAMOTO DAYS]
+2025-09-08 23:17:59.6|Info|RefreshEpisodeService|Finished episode refresh for series: [423732][SAKAMOTO DAYS].
+2025-09-08 23:17:59.6|Info|DiskScanService|Scanning SAKAMOTO DAYS
+2025-09-08 23:17:59.6|Info|DiskScanService|Completed scanning disk for SAKAMOTO DAYS
+2025-09-08 23:17:59.6|Info|ExistingMetadataImporter|Found 3 existing metadata files
+2025-09-08 23:17:59.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.6|Info|ExistingExtraFileService|Found 6 possible extra files, imported 3 files.
+2025-09-08 23:17:59.6|Info|RefreshSeriesService|Skipping refresh of series: The Sandman
+2025-09-08 23:17:59.6|Info|DiskScanService|Scanning The Sandman
+2025-09-08 23:17:59.7|Info|DiskScanService|Completed scanning disk for The Sandman
+2025-09-08 23:17:59.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.7|Info|ExistingExtraFileService|Found 11 possible extra files, imported 8 files.
+2025-09-08 23:17:59.7|Info|RefreshSeriesService|Skipping refresh of series: The Science of Star Wars
+2025-09-08 23:17:59.7|Info|DiskScanService|Scanning The Science of Star Wars
+2025-09-08 23:17:59.7|Info|DiskScanService|Completed scanning disk for The Science of Star Wars
+2025-09-08 23:17:59.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.7|Info|ExistingExtraFileService|Found 8 possible extra files, imported 2 files.
+2025-09-08 23:17:59.7|Info|RefreshSeriesService|Skipping refresh of series: The Second World War
+2025-09-08 23:17:59.7|Info|DiskScanService|Scanning The Second World War
+2025-09-08 23:17:59.7|Info|DiskScanService|Completed scanning disk for The Second World War
+2025-09-08 23:17:59.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2025-09-08 23:17:59.7|Info|RefreshSeriesService|Updating Severance
+2025-09-08 23:17:59.8|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2025-09-08 23:17:59.8|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2025-09-08 23:17:59.8|Info|DiskScanService|Scanning Severance
+2025-09-08 23:17:59.8|Info|DiskScanService|Completed scanning disk for Severance
+2025-09-08 23:17:59.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.9|Info|ExistingExtraFileService|Found 14 possible extra files, imported 11 files.
+2025-09-08 23:17:59.9|Info|RefreshSeriesService|Skipping refresh of series: Star Wars: Clone Wars
+2025-09-08 23:17:59.9|Info|DiskScanService|Scanning Star Wars: Clone Wars
+2025-09-08 23:17:59.9|Info|DiskScanService|Completed scanning disk for Star Wars: Clone Wars
+2025-09-08 23:17:59.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.9|Info|ExistingExtraFileService|Found 8 possible extra files, imported 6 files.
+2025-09-08 23:17:59.9|Info|RefreshSeriesService|Skipping refresh of series: Star Wars: Droids
+2025-09-08 23:17:59.9|Info|DiskScanService|Scanning Star Wars: Droids
+2025-09-08 23:17:59.9|Info|DiskScanService|Completed scanning disk for Star Wars: Droids
+2025-09-08 23:17:59.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:17:59.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:17:59.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:17:59.9|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:17:59.9|Info|RefreshSeriesService|Skipping refresh of series: Star Wars Rebels
+2025-09-08 23:17:59.9|Info|DiskScanService|Scanning Star Wars Rebels
+2025-09-08 23:17:59.9|Info|DiskScanService|Completed scanning disk for Star Wars Rebels
+2025-09-08 23:17:59.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.0|Info|ExistingExtraFileService|Found 77 possible extra files, imported 74 files.
+2025-09-08 23:18:00.0|Info|RefreshSeriesService|Skipping refresh of series: Star Wars: Rebels Recon
+2025-09-08 23:18:00.0|Info|DiskScanService|Scanning Star Wars: Rebels Recon
+2025-09-08 23:18:00.0|Info|DiskScanService|Completed scanning disk for Star Wars: Rebels Recon
+2025-09-08 23:18:00.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.0|Info|ExistingExtraFileService|Found 5 possible extra files, imported 3 files.
+2025-09-08 23:18:00.0|Info|RefreshSeriesService|Updating Star Wars: Skeleton Crew
+2025-09-08 23:18:00.0|Info|RefreshEpisodeService|Starting episode info refresh for: [420600][Star Wars: Skeleton Crew]
+2025-09-08 23:18:00.1|Info|RefreshEpisodeService|Finished episode refresh for series: [420600][Star Wars: Skeleton Crew].
+2025-09-08 23:18:00.1|Info|DiskScanService|Scanning Star Wars: Skeleton Crew
+2025-09-08 23:18:00.1|Info|DiskScanService|Completed scanning disk for Star Wars: Skeleton Crew
+2025-09-08 23:18:00.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.1|Info|ExistingExtraFileService|Found 12 possible extra files, imported 9 files.
+2025-09-08 23:18:00.1|Info|RefreshSeriesService|Skipping refresh of series: Star Wars: The Bad Batch
+2025-09-08 23:18:00.1|Info|DiskScanService|Scanning Star Wars: The Bad Batch
+2025-09-08 23:18:00.1|Info|DiskScanService|Completed scanning disk for Star Wars: The Bad Batch
+2025-09-08 23:18:00.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.1|Info|ExistingExtraFileService|Found 21 possible extra files, imported 18 files.
+2025-09-08 23:18:00.1|Info|RefreshSeriesService|Skipping refresh of series: Star Wars: The Clone Wars
+2025-09-08 23:18:00.1|Info|DiskScanService|Scanning Star Wars: The Clone Wars
+2025-09-08 23:18:00.2|Info|DiskScanService|Completed scanning disk for Star Wars: The Clone Wars
+2025-09-08 23:18:00.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.2|Info|ExistingExtraFileService|Found 144 possible extra files, imported 141 files.
+2025-09-08 23:18:00.2|Info|RefreshSeriesService|Updating Star Wars: Young Jedi Adventures
+2025-09-08 23:18:00.3|Info|RefreshEpisodeService|Starting episode info refresh for: [420658][Star Wars: Young Jedi Adventures]
+2025-09-08 23:18:00.5|Info|RefreshEpisodeService|Finished episode refresh for series: [420658][Star Wars: Young Jedi Adventures].
+2025-09-08 23:18:00.5|Info|DiskScanService|Scanning Star Wars: Young Jedi Adventures
+2025-09-08 23:18:00.5|Info|DiskScanService|Completed scanning disk for Star Wars: Young Jedi Adventures
+2025-09-08 23:18:00.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.5|Info|ExistingExtraFileService|Found 8 possible extra files, imported 6 files.
+2025-09-08 23:18:00.5|Info|RefreshSeriesService|Skipping refresh of series: The Strain
+2025-09-08 23:18:00.5|Info|DiskScanService|Scanning The Strain
+2025-09-08 23:18:00.6|Info|DiskScanService|Completed scanning disk for The Strain
+2025-09-08 23:18:00.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.6|Info|ExistingExtraFileService|Found 54 possible extra files, imported 51 files.
+2025-09-08 23:18:00.6|Info|RefreshSeriesService|Skipping refresh of series: Strain: Strategic Armored Infantry
+2025-09-08 23:18:00.6|Info|DiskScanService|Scanning Strain: Strategic Armored Infantry
+2025-09-08 23:18:00.6|Info|DiskScanService|Completed scanning disk for Strain: Strategic Armored Infantry
+2025-09-08 23:18:00.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.7|Info|ExistingExtraFileService|Found 46 possible extra files, imported 3 files.
+2025-09-08 23:18:00.7|Info|RefreshSeriesService|Updating Stranger Things
+2025-09-08 23:18:00.8|Info|RefreshEpisodeService|Starting episode info refresh for: [305288][Stranger Things]
+2025-09-08 23:18:00.9|Info|RefreshEpisodeService|Finished episode refresh for series: [305288][Stranger Things].
+2025-09-08 23:18:00.9|Info|DiskScanService|Scanning Stranger Things
+2025-09-08 23:18:00.9|Info|DiskScanService|Completed scanning disk for Stranger Things
+2025-09-08 23:18:00.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.9|Info|ExistingExtraFileService|Found 37 possible extra files, imported 34 files.
+2025-09-08 23:18:00.9|Info|RefreshSeriesService|Skipping refresh of series: Stranger’s Kiss: The Series
+2025-09-08 23:18:00.9|Info|DiskScanService|Scanning Stranger’s Kiss: The Series
+2025-09-08 23:18:00.9|Info|DiskScanService|Completed scanning disk for Stranger’s Kiss: The Series
+2025-09-08 23:18:00.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:00.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:00.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:00.9|Info|ExistingExtraFileService|Found 13 possible extra files, imported 13 files.
+2025-09-08 23:18:00.9|Info|RefreshSeriesService|Skipping refresh of series: The Things We Do For Love
+2025-09-08 23:18:00.9|Info|DiskScanService|Scanning The Things We Do For Love
+2025-09-08 23:18:00.9|Info|DiskScanService|Completed scanning disk for The Things We Do For Love
+2025-09-08 23:18:00.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.0|Info|ExistingExtraFileService|Found 45 possible extra files, imported 2 files.
+2025-09-08 23:18:01.0|Info|RefreshSeriesService|Updating Tokyo Sentimental
+2025-09-08 23:18:01.2|Info|RefreshEpisodeService|Starting episode info refresh for: [311444][Tokyo Sentimental]
+2025-09-08 23:18:01.2|Info|RefreshEpisodeService|Finished episode refresh for series: [311444][Tokyo Sentimental].
+2025-09-08 23:18:01.2|Info|DiskScanService|Scanning Tokyo Sentimental
+2025-09-08 23:18:01.2|Info|DiskScanService|Completed scanning disk for Tokyo Sentimental
+2025-09-08 23:18:01.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.2|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:18:01.2|Info|RefreshSeriesService|Skipping refresh of series: The Walking Dead
+2025-09-08 23:18:01.2|Info|DiskScanService|Scanning The Walking Dead
+2025-09-08 23:18:01.2|Info|DiskScanService|Completed scanning disk for The Walking Dead
+2025-09-08 23:18:01.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.2|Info|ExistingExtraFileService|Found 26 possible extra files, imported 23 files.
+2025-09-08 23:18:01.3|Info|RefreshSeriesService|Skipping refresh of series: WandaVision
+2025-09-08 23:18:01.3|Info|DiskScanService|Scanning WandaVision
+2025-09-08 23:18:01.3|Info|DiskScanService|Completed scanning disk for WandaVision
+2025-09-08 23:18:01.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.3|Info|ExistingExtraFileService|Found 14 possible extra files, imported 11 files.
+2025-09-08 23:18:01.3|Info|RefreshSeriesService|Skipping refresh of series: Web of Make Believe: Death, Lies and the Internet
+2025-09-08 23:18:01.3|Info|DiskScanService|Scanning Web of Make Believe: Death, Lies and the Internet
+2025-09-08 23:18:01.3|Info|DiskScanService|Completed scanning disk for Web of Make Believe: Death, Lies and the Internet
+2025-09-08 23:18:01.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.3|Info|ExistingExtraFileService|Found 9 possible extra files, imported 2 files.
+2025-09-08 23:18:01.3|Info|RefreshSeriesService|Skipping refresh of series: Whisker Haven Tales with the Palace Pets
+2025-09-08 23:18:01.3|Info|DiskScanService|Scanning Whisker Haven Tales with the Palace Pets
+2025-09-08 23:18:01.3|Info|DiskScanService|Completed scanning disk for Whisker Haven Tales with the Palace Pets
+2025-09-08 23:18:01.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.3|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:18:01.3|Info|RefreshSeriesService|Skipping refresh of series: Wild Argentina: Extreme Earth
+2025-09-08 23:18:01.3|Info|DiskScanService|Scanning Wild Argentina: Extreme Earth
+2025-09-08 23:18:01.3|Info|DiskScanService|Completed scanning disk for Wild Argentina: Extreme Earth
+2025-09-08 23:18:01.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.4|Info|ExistingExtraFileService|Found 9 possible extra files, imported 6 files.
+2025-09-08 23:18:01.4|Info|RefreshSeriesService|Skipping refresh of series: The Woman in the House Across the Street from the Girl in the Window
+2025-09-08 23:18:01.4|Info|DiskScanService|Scanning The Woman in the House Across the Street from the Girl in the Window
+2025-09-08 23:18:01.4|Info|DiskScanService|Completed scanning disk for The Woman in the House Across the Street from the Girl in the Window
+2025-09-08 23:18:01.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:18:01.4|Info|RefreshSeriesService|Skipping refresh of series: World of Winx
+2025-09-08 23:18:01.4|Info|DiskScanService|Scanning World of Winx
+2025-09-08 23:18:01.4|Info|DiskScanService|Completed scanning disk for World of Winx
+2025-09-08 23:18:01.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.4|Info|ExistingExtraFileService|Found 32 possible extra files, imported 29 files.
+2025-09-08 23:18:01.4|Info|RefreshSeriesService|Skipping refresh of series: The Young Person's Guide to Becoming a Rock Star
+2025-09-08 23:18:01.4|Info|DiskScanService|Scanning The Young Person's Guide to Becoming a Rock Star
+2025-09-08 23:18:01.4|Info|DiskScanService|Completed scanning disk for The Young Person's Guide to Becoming a Rock Star
+2025-09-08 23:18:01.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-08 23:18:01.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-08 23:18:01.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-08 23:18:01.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2025-09-08 23:28:57.3|Info|RssSyncService|Starting RSS Sync
+2025-09-08 23:29:04.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-08 23:29:05.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-08 23:44:27.4|Info|RssSyncService|Starting RSS Sync
+2025-09-08 23:44:35.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-08 23:44:35.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-08 23:59:57.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 00:00:05.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 00:00:05.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 00:15:27.6|Info|RssSyncService|Starting RSS Sync
+2025-09-09 00:15:35.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 00:15:35.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 00:30:57.7|Info|RssSyncService|Starting RSS Sync
+2025-09-09 00:31:05.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 00:31:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 00:46:27.8|Info|RssSyncService|Starting RSS Sync
+2025-09-09 00:46:35.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 00:46:35.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 01:01:58.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 01:02:05.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 01:02:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 01:17:28.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 01:17:35.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 01:17:36.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 01:32:58.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 01:33:05.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 01:33:06.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 01:48:28.3|Info|RssSyncService|Starting RSS Sync
+2025-09-09 01:48:35.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 01:48:36.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 02:03:58.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 02:04:06.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 02:04:06.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 02:17:28.5|Info|SceneMappingService|Updating Scene mappings
+2025-09-09 02:19:28.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 02:19:36.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 02:19:36.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 02:34:58.6|Info|RssSyncService|Starting RSS Sync
+2025-09-09 02:35:06.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 02:35:06.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 02:50:28.8|Info|RssSyncService|Starting RSS Sync
+2025-09-09 02:50:36.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 02:50:36.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 03:05:58.9|Info|RssSyncService|Starting RSS Sync
+2025-09-09 03:06:06.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 03:06:07.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 03:21:29.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 03:21:36.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 03:21:37.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 03:23:43.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 03:23:43.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 03:23:43.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 03:23:43.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 03:23:44.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 03:23:44.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 03:23:44.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 03:23:44.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 03:36:59.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 03:37:06.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 03:37:07.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 03:52:29.3|Info|RssSyncService|Starting RSS Sync
+2025-09-09 03:52:36.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 03:52:37.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0

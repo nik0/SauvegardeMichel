@@ -1,4 +1,3 @@
-
 services:
   # VPN Gluetun (Windscribe)
   gluetun:
@@ -20,19 +19,64 @@ services:
       - 8081:8080     # WebUI qBittorrent
       - 8999:8999     # Port TCP torrent
       - 8999:8999/udp # Port UDP torrent
+      - 8989:8989     # Sonarr
+      - 7878:7878     # Radarr
+      - 9696:9696     # Prowlarr
     restart: unless-stopped
 
   # Client torrent qBittorrent
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
-    network_mode: "service:gluetun"   # utilise le VPN
+    network_mode: "service:gluetun"   # passe par VPN
     environment:
-      - PUID=1000     # adapte selon ton utilisateur Linux
-      - PGID=1000     # idem
+      - PUID=1000
+      - PGID=1000
       - TZ=Europe/Paris
       - WEBUI_PORT=8080
     volumes:
       - ./config:/config
       - /mnt/disk1/media/:/downloads
+    restart: unless-stopped
+
+  # Sonarr (séries)
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    network_mode: "service:gluetun"   # passe par VPN
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Paris
+    volumes:
+      - ./config/sonarr:/config
+      - /mnt/disk1/media/Series:/tv     # destination des séries
+      - /mnt/disk1/media/:/downloads    # accès aux téléchargements de qBittorrent
+    restart: unless-stopped
+
+  # Radarr (films)
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    network_mode: "service:gluetun"   # passe par VPN
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Paris
+    volumes:
+      - ./config/radarr:/config
+      - /mnt/disk2/media/Films:/movies # destination des films
+      - /mnt/disk1/media/:/downloads    # accès aux téléchargements de qBittorrent
+    restart: unless-stopped
+  # Prowlarr (indexers)
+  prowlarr:
+    image: ghcr.io/almottier/prowlarr-ygg
+    container_name: prowlarr
+    network_mode: "service:gluetun"   # passe par VPN
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Paris
+    volumes:
+      - ./config/prowlarr:/config
     restart: unless-stopped

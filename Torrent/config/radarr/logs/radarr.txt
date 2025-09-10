@@ -4386,3 +4386,205 @@
 2025-09-09 03:29:59.1|Info|RssSyncService|Starting RSS Sync
 2025-09-09 03:30:06.7|Info|DownloadDecisionMaker|Processing 300 releases
 2025-09-09 03:30:07.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 04:00:29.3|Info|RssSyncService|Starting RSS Sync
+2025-09-09 04:00:36.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 04:00:37.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 04:30:59.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 04:31:07.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 04:31:08.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 05:01:29.7|Info|RssSyncService|Starting RSS Sync
+2025-09-09 05:01:37.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 05:01:38.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 05:32:00.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 05:32:07.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 05:32:08.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 06:02:30.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 06:02:37.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 06:02:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 06:26:22.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 06:26:22.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 06:26:23.5|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 06:26:23.5|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 06:33:00.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 06:33:08.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 06:33:08.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 07:03:30.6|Info|RssSyncService|Starting RSS Sync
+2025-09-09 07:03:38.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 07:03:39.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 07:34:00.9|Info|RssSyncService|Starting RSS Sync
+2025-09-09 07:34:08.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 07:34:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 08:02:22.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 08:02:22.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 08:04:31.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 08:04:38.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 08:04:39.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 08:35:01.3|Info|RssSyncService|Starting RSS Sync
+2025-09-09 08:35:08.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 08:35:09.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 09:05:31.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 09:05:39.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 09:05:39.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 09:36:01.8|Info|RssSyncService|Starting RSS Sync
+2025-09-09 09:36:09.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 09:36:10.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 10:06:32.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 10:06:39.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 10:06:40.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 10:28:48.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 10:28:48.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 10:37:02.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 10:37:09.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 10:37:10.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 10:41:49.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 10:41:49.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 11:07:32.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 11:07:40.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 11:07:41.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 11:16:02.5|Info|HousekeepingService|Running housecleaning tasks
+2025-09-09 11:16:02.5|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-09-09 11:16:02.6|Info|Database|Vacuuming Log database
+2025-09-09 11:16:02.6|Info|Database|Log database compressed
+2025-09-09 11:16:02.6|Info|Database|Vacuuming Main database
+2025-09-09 11:16:02.6|Info|Database|Main database compressed
+2025-09-09 11:26:58.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 11:26:58.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 11:26:59.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 11:26:59.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 11:27:27.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 11:27:27.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 11:27:32.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 11:27:32.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 11:38:02.7|Info|RssSyncService|Starting RSS Sync
+2025-09-09 11:38:10.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 11:38:10.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 12:08:32.9|Info|RssSyncService|Starting RSS Sync
+2025-09-09 12:08:45.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 12:08:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 12:20:04.4|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 12:20:04.4|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 12:39:03.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 12:39:10.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 12:39:11.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 12:53:15.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 12:53:15.3|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 13:09:33.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 13:09:41.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 13:09:42.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 13:40:03.7|Info|RssSyncService|Starting RSS Sync
+2025-09-09 13:40:11.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 13:40:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 14:10:33.9|Info|RssSyncService|Starting RSS Sync
+2025-09-09 14:10:43.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 14:10:44.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 14:41:04.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 14:41:13.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 14:41:14.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 14:49:34.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 14:49:34.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 14:52:07.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 14:52:07.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 15:11:34.3|Info|RssSyncService|Starting RSS Sync
+2025-09-09 15:11:41.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 15:11:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 15:42:04.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 15:42:12.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 15:42:12.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 16:12:34.8|Info|RssSyncService|Starting RSS Sync
+2025-09-09 16:12:42.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 16:12:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 16:43:05.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 16:43:12.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 16:43:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 16:48:05.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 16:48:05.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 17:12:02.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 17:12:02.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 17:13:35.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 17:13:42.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 17:13:43.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 17:44:05.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 17:44:13.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 17:44:14.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 18:14:35.6|Info|RssSyncService|Starting RSS Sync
+2025-09-09 18:14:43.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 18:14:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 18:45:05.8|Info|RssSyncService|Starting RSS Sync
+2025-09-09 18:45:13.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 18:45:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 18:59:37.5|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 18:59:37.5|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 18:59:40.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 18:59:40.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:00:22.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:00:23.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:00:23.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:02:15.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:02:15.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:15:36.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 19:15:43.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 19:15:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 19:25:37.4|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:25:37.4|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:25:37.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:25:37.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:25:42.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:25:42.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:25:43.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-09 19:25:43.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-09 19:46:06.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 19:46:13.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 19:46:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 20:16:36.5|Info|RssSyncService|Starting RSS Sync
+2025-09-09 20:16:44.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 20:16:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 20:47:06.7|Info|RssSyncService|Starting RSS Sync
+2025-09-09 20:47:14.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 20:47:15.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 21:17:37.0|Info|RssSyncService|Starting RSS Sync
+2025-09-09 21:17:45.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 21:17:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 21:48:07.2|Info|RssSyncService|Starting RSS Sync
+2025-09-09 21:48:15.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 21:48:16.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 22:18:37.4|Info|RssSyncService|Starting RSS Sync
+2025-09-09 22:18:45.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 22:18:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 22:49:07.6|Info|RssSyncService|Starting RSS Sync
+2025-09-09 22:49:16.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 22:49:17.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 23:19:37.9|Info|RssSyncService|Starting RSS Sync
+2025-09-09 23:19:45.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 23:19:46.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-09 23:50:08.1|Info|RssSyncService|Starting RSS Sync
+2025-09-09 23:50:16.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-09 23:50:16.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 00:20:38.3|Info|RssSyncService|Starting RSS Sync
+2025-09-10 00:20:51.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 00:20:51.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 00:51:08.6|Info|RssSyncService|Starting RSS Sync
+2025-09-10 00:51:16.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 00:51:17.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 01:21:38.8|Info|RssSyncService|Starting RSS Sync
+2025-09-10 01:21:46.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 01:21:47.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 01:52:09.0|Info|RssSyncService|Starting RSS Sync
+2025-09-10 01:52:16.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 01:52:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 02:22:39.2|Info|RssSyncService|Starting RSS Sync
+2025-09-10 02:22:46.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 02:22:47.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 02:53:09.4|Info|RssSyncService|Starting RSS Sync
+2025-09-10 02:54:49.5|Warn|Torznab|YggAPI (Prowlarr) server is currently unavailable. http://localhost:9696/1/api?t=movie&cat=2000,2020&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-09-10 02:54:49.5|Info|DownloadDecisionMaker|No results found
+2025-09-10 02:54:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-10 03:25:09.7|Info|RssSyncService|Starting RSS Sync
+2025-09-10 03:25:17.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 03:25:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 03:28:22.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-10 03:28:22.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-10 03:28:23.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-10 03:28:23.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-10 03:55:39.9|Info|RssSyncService|Starting RSS Sync
+2025-09-10 03:55:47.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-10 03:55:48.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0

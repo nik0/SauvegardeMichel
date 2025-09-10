@@ -1,403 +1,778 @@
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'Moto3.Course+Podium.GP.Catalogne.R15.2025.FRENCH.1080p.HDTV.H264-WD99'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: HDTV-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: WD99
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series Moto3 Course+Podium GP Catalogne R15
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'Moto3.Course+Podium.GP.Catalogne.R15.2025.FRENCH.1080p.HDTV.H264-WD99' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'F2.Course+Podium.GP.Italie.R11.2025.FRENCH.1080p.HDTV.H264-WD99' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'F2.Course+Podium.GP.Italie.R11.2025.FRENCH.1080p.HDTV.H264-WD99'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. F2 Course+Podium GP Italie R11 - S20E25 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'F2.Course+Podium.GP.Italie.R11.2025.FRENCH.1080p.HDTV.H264-WD99'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: HDTV-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: WD99
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series F2 Course+Podium GP Italie R11
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'F2.Course+Podium.GP.Italie.R11.2025.FRENCH.1080p.HDTV.H264-WD99' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'F3.Course+Podium.GP.Italie.R10.2025.FRENCH.1080p.HDTV.H264-WD99' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'F3.Course+Podium.GP.Italie.R10.2025.FRENCH.1080p.HDTV.H264-WD99'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. F3 Course+Podium GP Italie R10 - S20E25 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'F3.Course+Podium.GP.Italie.R10.2025.FRENCH.1080p.HDTV.H264-WD99'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: HDTV-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: WD99
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series F3 Course+Podium GP Italie R10
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'F3.Course+Podium.GP.Italie.R10.2025.FRENCH.1080p.HDTV.H264-WD99' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'TO BE HERO X S01E23 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'TO BE HERO X S01E23 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. TO BE HERO X - S01E23 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'TO BE HERO X S01E23 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series TO BE HERO X
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'TO BE HERO X S01E23 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'The.Count.of.Monte.Cristo.2024.S01.iNTERNAL.MULTi.1080p.WEB.x264-FW (Le Comte de Monte-Cristo)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'The.Count.of.Monte.Cristo.2024.S01.iNTERNAL.MULTi.1080p.WEB.x264-FW (Le Comte de Monte-Cristo)'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. The Count of Monte Cristo 2024 - Season 01 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'The.Count.of.Monte.Cristo.2024.S01.iNTERNAL.MULTi.1080p.WEB.x264-FW (Le Comte de Monte-Cristo)'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Cristo
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series The Count of Monte Cristo 2024
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'The.Count.of.Monte.Cristo.2024.S01.iNTERNAL.MULTi.1080p.WEB.x264-FW (Le Comte de Monte-Cristo)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'TO.BE.HERO.X.S01E23.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'TO.BE.HERO.X.S01E23.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. TO BE HERO X - S01E23 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'TO.BE.HERO.X.S01E23.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series TO BE HERO X
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'TO.BE.HERO.X.S01E23.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Rascal Does Not Dream of Bunny Girl Senpai S02E06 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Rascal Does Not Dream of Bunny Girl Senpai S02E06 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. Rascal Does Not Dream of Bunny Girl Senpai - S02E06 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'Rascal Does Not Dream of Bunny Girl Senpai S02E06 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series Rascal Does Not Dream of Bunny Girl Senpai
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'Rascal Does Not Dream of Bunny Girl Senpai S02E06 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'My Dress-Up Darling S02E07 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'My Dress-Up Darling S02E07 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. My Dress-Up Darling - S02E07 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'My Dress-Up Darling S02E07 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series My Dress-Up Darling
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'My Dress-Up Darling S02E07 MULTi 1080p CR WEB x264 AAC -Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. Pocket Monsters Horizons - S20E107 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Pokémon Fansub
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: Pocket Monsters Horizons. TVDB ID for mapping: 76703
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series Pocket Monsters Horizons
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: Pocket Monsters Horizons. TVDB ID for mapping: 76703
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release '[Pokémon Fansub] Pocket Monsters Horizons S20E107 VOSTFR 1080p WEB x264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Pocket Monsters Horizons matches an alias for series with TVDB ID: 76703
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Turbo.S39E02.Decouverte.the.world.of.Volvo.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Turbo (1987) / Turbo (M6))' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Turbo.S39E02.Decouverte.the.world.of.Volvo.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Turbo (1987) / Turbo (M6))'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. Turbo - S39E02 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'Turbo.S39E02.Decouverte.the.world.of.Volvo.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Turbo (1987) / Turbo (M6))'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series Turbo
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'Turbo.S39E02.Decouverte.the.world.of.Volvo.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Turbo (1987) / Turbo (M6))' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. TNA iMPACT - 2025-09-04 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: HEEL
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: TNA iMPACT. TVDB ID for mapping: 264684
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series TNA iMPACT
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: TNA iMPACT. TVDB ID for mapping: 264684
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'TNA.iMPACT.2025.09.04.1080p.WEB.h264-HEEL' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] TNA iMPACT matches an alias for series with TVDB ID: 264684
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'MotoGP.2025.GP#14.Hongrie.Balaton.Park.23.24.08.MotoGP.Course.Sprint.RTBF.WEB.VFF.720p.H264.AAC' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'MotoGP.2025.GP#14.Hongrie.Balaton.Park.23.24.08.MotoGP.Course.Sprint.RTBF.WEB.VFF.720p.H264.AAC'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. MotoGP - S20E25 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'MotoGP.2025.GP#14.Hongrie.Balaton.Park.23.24.08.MotoGP.Course.Sprint.RTBF.WEB.VFF.720p.H264.AAC'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: HDTV-720p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: 
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series MotoGP
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'MotoGP.2025.GP#14.Hongrie.Balaton.Park.23.24.08.MotoGP.Course.Sprint.RTBF.WEB.VFF.720p.H264.AAC' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. Un Si Grand Soleil - 1744 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: 
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: Un Si Grand Soleil. TVDB ID for mapping: 349889
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series Un Si Grand Soleil
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264'
-2025-09-09 03:52:37.3|Debug|SceneMappingService|Found scene mapping for: Un Si Grand Soleil. TVDB ID for mapping: 349889
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'Un.Si.Grand.Soleil.E1744 à 1748.1080p.FRENCH.WebDL.x264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Un Si Grand Soleil matches an alias for series with TVDB ID: 349889
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Retour.aux.sources.06.09.2025.Les.raisins.du.Reich.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (Les raisins du Reich)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Retour.aux.sources.06.09.2025.Les.raisins.du.Reich.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (Les raisins du Reich)'
-2025-09-09 03:52:37.3|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Task.S01E01.MULTi.HDR.DV.2160p.WEB.x265-SUPPLY'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.MULTi.HDR.DV.2160p.WEB.x265-SUPPLY'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: SUPPLY
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Task.S01E01.MULTi.HDR.DV.2160p.WEB.x265-SUPPLY' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Task.S01E01.MULTi.1080p.WEB.H264-SUPPLY' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Task.S01E01.MULTi.1080p.WEB.H264-SUPPLY'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.MULTi.1080p.WEB.H264-SUPPLY'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: SUPPLY
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Task.S01E01.MULTi.1080p.WEB.H264-SUPPLY' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'RuPauls.Drag.Race.UK.S04.VOSTFR.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'RuPauls.Drag.Race.UK.S04.VOSTFR.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. RuPauls Drag Race UK - Season 04 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'RuPauls.Drag.Race.UK.S04.VOSTFR.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series RuPauls Drag Race UK
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'RuPauls.Drag.Race.UK.S04.VOSTFR.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Rascal.Does.Not.Dream.of.Bunny.Girl.Senpai.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Rascal.Does.Not.Dream.of.Bunny.Girl.Senpai.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Rascal Does Not Dream of Bunny Girl Senpai - S02E10 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Rascal.Does.Not.Dream.of.Bunny.Girl.Senpai.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: ARONA
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Rascal Does Not Dream of Bunny Girl Senpai
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Rascal.Does.Not.Dream.of.Bunny.Girl.Senpai.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Affaires sensibles - S05E01 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)'
+2025-09-10 03:54:17.8|Debug|SceneMappingService|Found scene mapping for: Affaires sensibles. TVDB ID for mapping: 410000
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Affaires sensibles
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)'
+2025-09-10 03:54:17.8|Debug|SceneMappingService|Found scene mapping for: Affaires sensibles. TVDB ID for mapping: 410000
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Affaires.sensibles.S05E01.Concorde.une.epopee.francaise.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Concorde : une épopée française)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Affaires sensibles matches an alias for series with TVDB ID: 410000
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'My.Dress-Up.Darling.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'My.Dress-Up.Darling.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. My Dress-Up Darling - S02E10 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'My.Dress-Up.Darling.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: ARONA
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series My Dress-Up Darling
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'My.Dress-Up.Darling.S02E10.VOSTFR.1080p.WEBRiP.x265-ARONA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Task.S01E01.La.croisee.des.chemins.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Task.S01E01.La.croisee.des.chemins.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.La.croisee.des.chemins.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Task.S01E01.La.croisee.des.chemins.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Gangnam.B-Side.S01.MULTi.HDR.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Gangnam.B-Side.S01.MULTi.HDR.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Gangnam B-Side - Season 01 
+2025-09-10 03:54:17.8|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.8|Debug|QualityParser|Trying to parse quality for 'Gangnam.B-Side.S01.MULTi.HDR.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.8|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series Gangnam B-Side
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Release 'Gangnam.B-Side.S01.MULTi.HDR.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG'
+2025-09-10 03:54:17.8|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
 
 [v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 6 and 9
    at NzbDrone.Core.Parser.Parser.ParseMatchCollection(MatchCollection matchCollection, String releaseTitle) in ./Sonarr.Core/Parser/Parser.cs:line 1184
    at NzbDrone.Core.Parser.Parser.ParseTitle(String title) in ./Sonarr.Core/Parser/Parser.cs:line 771
 
-2025-09-09 03:52:37.3|Debug|Parser|Unable to parse Retour.aux.sources.06.09.2025.Les.raisins.du.Reich.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (Les raisins du Reich)
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Retour.aux.sources.06.09.2025.Les.raisins.du.Reich.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (Les raisins du Reich)'
-2025-09-09 03:52:37.3|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
+2025-09-10 03:54:17.8|Debug|Parser|Unable to parse WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG'
+2025-09-10 03:54:17.8|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
 
 [v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 6 and 9
    at NzbDrone.Core.Parser.Parser.ParseMatchCollection(MatchCollection matchCollection, String releaseTitle) in ./Sonarr.Core/Parser/Parser.cs:line 1184
    at NzbDrone.Core.Parser.Parser.ParseTitle(String title) in ./Sonarr.Core/Parser/Parser.cs:line 771
 
-2025-09-09 03:52:37.3|Debug|Parser|Unable to parse Retour.aux.sources.06.09.2025.Les.raisins.du.Reich.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (Les raisins du Reich)
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Retour.aux.sources.06.09.2025.La.tragique.histoire.de.Fritz.l.elephant.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (La tragique histoire de Fritz l'éléphant)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Retour.aux.sources.06.09.2025.La.tragique.histoire.de.Fritz.l.elephant.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (La tragique histoire de Fritz l'éléphant)'
-2025-09-09 03:52:37.3|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
+2025-09-10 03:54:17.8|Debug|Parser|Unable to parse WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG
+2025-09-10 03:54:17.8|Debug|ParsingService|No matching series WWE.Smackdown.06.09.2025.FRENCH.1080p.WEB.x264-MG
+2025-09-10 03:54:17.8|Debug|DownloadDecisionMaker|Processing release 'Empathie.S01E06.Un.etre.d.exception.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.8|Debug|Parser|Parsing string 'Empathie.S01E06.Un.etre.d.exception.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.8|Debug|Parser|Episode Parsed. Empathie - S01E06 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Empathie.S01E06.Un.etre.d.exception.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Empathie
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Empathie.S01E06.Un.etre.d.exception.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Empathie.S01E05.Porte-patio.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Empathie.S01E05.Porte-patio.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Empathie - S01E05 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Empathie.S01E05.Porte-patio.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Empathie
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Empathie.S01E05.Porte-patio.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Empathie.S01E04.Putain.de.vie.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Empathie.S01E04.Putain.de.vie.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Empathie - S01E04 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Empathie.S01E04.Putain.de.vie.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Empathie
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Empathie.S01E04.Putain.de.vie.FRENCH.AD.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'DEVO.2024.VOSTFR.1080p.Web-dl.x264.AC3-fist' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'DEVO.2024.VOSTFR.1080p.Web-dl.x264.AC3-fist'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. DEVO - S20E24 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'DEVO.2024.VOSTFR.1080p.Web-dl.x264.AC3-fist'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: fist
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series DEVO
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'DEVO.2024.VOSTFR.1080p.Web-dl.x264.AC3-fist' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Ambiguous Date, cannot validate month and day with 8 and 9
 
-[v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 6 and 9
+[v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 8 and 9
    at NzbDrone.Core.Parser.Parser.ParseMatchCollection(MatchCollection matchCollection, String releaseTitle) in ./Sonarr.Core/Parser/Parser.cs:line 1184
    at NzbDrone.Core.Parser.Parser.ParseTitle(String title) in ./Sonarr.Core/Parser/Parser.cs:line 771
 
-2025-09-09 03:52:37.3|Debug|Parser|Unable to parse Retour.aux.sources.06.09.2025.La.tragique.histoire.de.Fritz.l.elephant.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (La tragique histoire de Fritz l'éléphant)
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Retour.aux.sources.06.09.2025.La.tragique.histoire.de.Fritz.l.elephant.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (La tragique histoire de Fritz l'éléphant)'
-2025-09-09 03:52:37.3|Debug|Parser|Ambiguous Date, cannot validate month and day with 6 and 9
+2025-09-10 03:54:17.9|Debug|Parser|Unable to parse Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Ambiguous Date, cannot validate month and day with 8 and 9
 
-[v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 6 and 9
+[v4.0.15.2941] NzbDrone.Core.Parser.InvalidDateException: Ambiguous Date, cannot validate month and day with 8 and 9
    at NzbDrone.Core.Parser.Parser.ParseMatchCollection(MatchCollection matchCollection, String releaseTitle) in ./Sonarr.Core/Parser/Parser.cs:line 1184
    at NzbDrone.Core.Parser.Parser.ParseTitle(String title) in ./Sonarr.Core/Parser/Parser.cs:line 771
 
-2025-09-09 03:52:37.3|Debug|Parser|Unable to parse Retour.aux.sources.06.09.2025.La.tragique.histoire.de.Fritz.l.elephant.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE (La tragique histoire de Fritz l'éléphant)
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'The.Leopard.S01.MULTI.AD.2160p.WEBRip.NF.DV.HDR.x265.EAC3.5.1-Amen (Le Guépard)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'The.Leopard.S01.MULTI.AD.2160p.WEBRip.NF.DV.HDR.x265.EAC3.5.1-Amen (Le Guépard)'
-2025-09-09 03:52:37.3|Debug|Parser|Episode Parsed. The Leopard - Season 01 
-2025-09-09 03:52:37.3|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.3|Debug|QualityParser|Trying to parse quality for 'The.Leopard.S01.MULTI.AD.2160p.WEBRip.NF.DV.HDR.x265.EAC3.5.1-Amen (Le Guépard)'
-2025-09-09 03:52:37.3|Debug|Parser|Quality parsed: WEBRip-2160p v1
-2025-09-09 03:52:37.3|Debug|Parser|Release Group parsed: Amen
-2025-09-09 03:52:37.3|Debug|ParsingService|No matching series The Leopard
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Release 'The.Leopard.S01.MULTI.AD.2160p.WEBRip.NF.DV.HDR.x265.EAC3.5.1-Amen (Le Guépard)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.3|Debug|DownloadDecisionMaker|Processing release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.3|Debug|Parser|Parsing string 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Hostage 2025 - Season 01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Hostage 2025
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Unable to parse Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Unable to parse Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Canal.Rugby.Manager.FRENCH.1080p.WEB.DDP.x264-THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Hostage 2025 - Season 01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Hostage 2025
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Hostage 2025 - Season 01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Hostage 2025
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Hostage.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'PAW.Patrol.S11E22.Yumi.l.Abeille.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'PAW.Patrol.S11E22.Yumi.l.Abeille.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. PAW Patrol - S11E22 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'PAW.Patrol.S11E22.Yumi.l.Abeille.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series PAW Patrol
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'PAW.Patrol.S11E22.Yumi.l.Abeille.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'PAW.Patrol.S11E21.L.alliance.des.trois.mechants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / L'alliance des trois méchants)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'PAW.Patrol.S11E21.L.alliance.des.trois.mechants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / L'alliance des trois méchants)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. PAW Patrol - S11E21 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'PAW.Patrol.S11E21.L.alliance.des.trois.mechants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / L'alliance des trois méchants)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series PAW Patrol
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'PAW.Patrol.S11E21.L.alliance.des.trois.mechants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / L'alliance des trois méchants)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'PAW.Patrol.S11E14.Des.chevres.en.danger.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / Des chèvres en danger)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'PAW.Patrol.S11E14.Des.chevres.en.danger.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / Des chèvres en danger)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. PAW Patrol - S11E14 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'PAW.Patrol.S11E14.Des.chevres.en.danger.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / Des chèvres en danger)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series PAW Patrol
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'PAW.Patrol.S11E14.Des.chevres.en.danger.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille / Des chèvres en danger)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'My.Lovely.Journey.S01.VOSTFR.1080p.WAVVE.WEB-DL.AAC2.0.H.264-DFE (Mon Beau Voyage)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'My.Lovely.Journey.S01.VOSTFR.1080p.WAVVE.WEB-DL.AAC2.0.H.264-DFE (Mon Beau Voyage)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. My Lovely Journey - Season 01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'My.Lovely.Journey.S01.VOSTFR.1080p.WAVVE.WEB-DL.AAC2.0.H.264-DFE (Mon Beau Voyage)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: DFE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series My Lovely Journey
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'My.Lovely.Journey.S01.VOSTFR.1080p.WAVVE.WEB-DL.AAC2.0.H.264-DFE (Mon Beau Voyage)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. You - S20E18 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.H265-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series You
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.AV1-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. You - S20E18 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.AV1-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series You
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'You.2018.COMPLETE.MULTi.AD.1080p.NF.WEB.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Automoto.S51E03.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Auto-Moto)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Automoto.S51E03.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Auto-Moto)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Automoto - S51E03 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Automoto.S51E03.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Auto-Moto)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: Moto
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Automoto
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Automoto.S51E03.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Auto-Moto)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'HPI.Haut.Potentiel.Intellectuel.S05E06.VOF.1080p.WEBRip.iT.x265.10bits.EAC3.5.1-Amen' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'HPI.Haut.Potentiel.Intellectuel.S05E06.VOF.1080p.WEBRip.iT.x265.10bits.EAC3.5.1-Amen'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. HPI Haut Potentiel Intellectuel - S05E06 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'HPI.Haut.Potentiel.Intellectuel.S05E06.VOF.1080p.WEBRip.iT.x265.10bits.EAC3.5.1-Amen'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: Amen
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series HPI Haut Potentiel Intellectuel
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'HPI.Haut.Potentiel.Intellectuel.S05E06.VOF.1080p.WEBRip.iT.x265.10bits.EAC3.5.1-Amen' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Gounod - Roméo et Juliette - Salzbourg 2008 - bluray remux 1080i DTS 5.1 H264' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Gounod - Roméo et Juliette - Salzbourg 2008 - bluray remux 1080i DTS 5.1 H264'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Gounod - Roméo et Juliette - Salzbourg - S20E08 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Gounod - Roméo et Juliette - Salzbourg 2008 - bluray remux 1080i DTS 5.1 H264'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: Bluray-1080p Remux v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: 
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Gounod - Roméo et Juliette - Salzbourg
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Gounod - Roméo et Juliette - Salzbourg 2008 - bluray remux 1080i DTS 5.1 H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'HPI.Haut.Potentiel.Intellectuel.S05E05.VOF.1080p.WEBRip.iT.x265.10bits.AC3.5.1-Amen' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'HPI.Haut.Potentiel.Intellectuel.S05E05.VOF.1080p.WEBRip.iT.x265.10bits.AC3.5.1-Amen'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. HPI Haut Potentiel Intellectuel - S05E05 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'HPI.Haut.Potentiel.Intellectuel.S05E05.VOF.1080p.WEBRip.iT.x265.10bits.AC3.5.1-Amen'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: Amen
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series HPI Haut Potentiel Intellectuel
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'HPI.Haut.Potentiel.Intellectuel.S05E05.VOF.1080p.WEBRip.iT.x265.10bits.AC3.5.1-Amen' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'The.Brokenwood.Mysteries.S10E01.Brokenwoodosaurus.MULTi.1080p.WEB.H264-THESYNDiCATE (Brokenwood)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'The.Brokenwood.Mysteries.S10E01.Brokenwoodosaurus.MULTi.1080p.WEB.H264-THESYNDiCATE (Brokenwood)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. The Brokenwood Mysteries - S10E01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'The.Brokenwood.Mysteries.S10E01.Brokenwoodosaurus.MULTi.1080p.WEB.H264-THESYNDiCATE (Brokenwood)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series The Brokenwood Mysteries
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'The.Brokenwood.Mysteries.S10E01.Brokenwoodosaurus.MULTi.1080p.WEB.H264-THESYNDiCATE (Brokenwood)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'All.Rise.S02E15.Histoires.de.famille.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'All.Rise.S02E15.Histoires.de.famille.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. All Rise - S02E15 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'All.Rise.S02E15.Histoires.de.famille.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series All Rise
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'All.Rise.S02E15.Histoires.de.famille.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'PAW.Patrol.S10E08.Digi.et.Tal.les.robots.assistants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'PAW.Patrol.S10E08.Digi.et.Tal.les.robots.assistants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. PAW Patrol - S10E08 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: French
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'PAW.Patrol.S10E08.Digi.et.Tal.les.robots.assistants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series PAW Patrol
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'PAW.Patrol.S10E08.Digi.et.Tal.les.robots.assistants.FRENCH.1080p.WEB.H264-THESYNDiCATE (La Pat' Patrouille)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'All.Rise.S02E14.Juge.et.partie.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'All.Rise.S02E14.Juge.et.partie.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. All Rise - S02E14 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'All.Rise.S02E14.Juge.et.partie.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series All Rise
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'All.Rise.S02E14.Juge.et.partie.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'All.Rise.S02E13.L.amour.est.une.illusion.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'All.Rise.S02E13.L.amour.est.une.illusion.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. All Rise - S02E13 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'All.Rise.S02E13.L.amour.est.une.illusion.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series All Rise
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'All.Rise.S02E13.L.amour.est.une.illusion.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'BLOOM.S01E02.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'BLOOM.S01E02.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. BLOOM - S01E02 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'BLOOM.S01E02.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series BLOOM
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'BLOOM.S01E02.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'BLOOM.S01E01.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'BLOOM.S01E01.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. BLOOM - S01E01 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'BLOOM.S01E01.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: Tsundere-Raws
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series BLOOM
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'BLOOM.S01E01.MULTi.1080p.NF.WEB.x264.E-AC-3-Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'All.Rise.S02E12.Tourner.la.page.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'All.Rise.S02E12.Tourner.la.page.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. All Rise - S02E12 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'All.Rise.S02E12.Tourner.la.page.MULTi.1080p.WEB.H264-THESYNDiCATE'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series All Rise
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'All.Rise.S02E12.Tourner.la.page.MULTi.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Poker.Face.2023.S01E08.Le.syndrome.d.Orphee.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Le syndrome d'Orphée)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Poker.Face.2023.S01E08.Le.syndrome.d.Orphee.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Le syndrome d'Orphée)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Poker Face 2023 - S01E08 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Poker.Face.2023.S01E08.Le.syndrome.d.Orphee.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Le syndrome d'Orphée)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Poker Face 2023
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Poker.Face.2023.S01E08.Le.syndrome.d.Orphee.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Le syndrome d'Orphée)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Poker.Face.2023.S01E07.Mauvais.esprit.de.competition.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Mauvais esprit de compétition)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Poker.Face.2023.S01E07.Mauvais.esprit.de.competition.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Mauvais esprit de compétition)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Poker Face 2023 - S01E07 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Poker.Face.2023.S01E07.Mauvais.esprit.de.competition.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Mauvais esprit de compétition)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Poker Face 2023
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Poker.Face.2023.S01E07.Mauvais.esprit.de.competition.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Mauvais esprit de compétition)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Poker.Face.2023.S01E06.Amour.gloire.et.theatralite.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Amour, gloire et théâtralité)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Poker.Face.2023.S01E06.Amour.gloire.et.theatralite.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Amour, gloire et théâtralité)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Poker Face 2023 - S01E06 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Poker.Face.2023.S01E06.Amour.gloire.et.theatralite.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Amour, gloire et théâtralité)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Poker Face 2023
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Poker.Face.2023.S01E06.Amour.gloire.et.theatralite.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Amour, gloire et théâtralité)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Processing release 'Poker.Face.2023.S01E05.Retraitees.ou.presque.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Retraitées... ou presque)' from 'YggAPI (Prowlarr)'
-2025-09-09 03:52:37.4|Debug|Parser|Parsing string 'Poker.Face.2023.S01E05.Retraitees.ou.presque.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Retraitées... ou presque)'
-2025-09-09 03:52:37.4|Debug|Parser|Episode Parsed. Poker Face 2023 - S01E05 
-2025-09-09 03:52:37.4|Debug|Parser|Languages parsed: Unknown
-2025-09-09 03:52:37.4|Debug|QualityParser|Trying to parse quality for 'Poker.Face.2023.S01E05.Retraitees.ou.presque.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Retraitées... ou presque)'
-2025-09-09 03:52:37.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
-2025-09-09 03:52:37.4|Debug|Parser|Release Group parsed: THESYNDiCATE
-2025-09-09 03:52:37.4|Debug|ParsingService|No matching series Poker Face 2023
-2025-09-09 03:52:37.4|Debug|DownloadDecisionMaker|Release 'Poker.Face.2023.S01E05.Retraitees.ou.presque.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE (Retraitées... ou presque)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
-2025-09-09 03:52:37.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
-2025-09-09 03:52:37.4|Debug|PendingReleaseService|Removing failed releases from pending
-2025-09-09 03:55:29.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-10 03:54:17.9|Debug|Parser|Unable to parse Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Sale.temps.pour.la.planete.08.09.2025.Alsace.un.terroir.en.mouvement.DOC.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Supercar.Saints.2025.VOSTFR.1080P.WEB.H264-MisterGLA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Supercar.Saints.2025.VOSTFR.1080P.WEB.H264-MisterGLA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Supercar Saints - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Supercar.Saints.2025.VOSTFR.1080P.WEB.H264-MisterGLA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: MisterGLA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Supercar Saints
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Supercar.Saints.2025.VOSTFR.1080P.WEB.H264-MisterGLA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Sept.a.huit.S25E02.Sept.a.huit.Life.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Sept.a.huit.S25E02.Sept.a.huit.Life.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Sept a huit - S25E02 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Sept.a.huit.S25E02.Sept.a.huit.Life.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Sept a huit
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Sept.a.huit.S25E02.Sept.a.huit.Life.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Sept.a.huit.S25E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Sept.a.huit.S25E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Sept a huit - S25E02 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Sept.a.huit.S25E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Sept a huit
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Sept.a.huit.S25E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Sept à Huit / 7 à 8)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Institute.REPACK.S01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Institute.REPACK.S01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Institute REPACK - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Institute.REPACK.S01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v2
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Institute REPACK
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Institute.REPACK.S01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (S2025E02 : Parcs d’attractions : ces fans prêts à toutes les folies ! / Parcs d’attractions : ces fans prêts à toutes les folies !)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (S2025E02 : Parcs d’attractions : ces fans prêts à toutes les folies ! / Parcs d’attractions : ces fans prêts à toutes les folies !)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. 66 minutes - S2025E02 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (S2025E02 : Parcs d’attractions : ces fans prêts à toutes les folies ! / Parcs d’attractions : ces fans prêts à toutes les folies !)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series 66 minutes
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (S2025E02 : Parcs d’attractions : ces fans prêts à toutes les folies ! / Parcs d’attractions : ces fans prêts à toutes les folies !)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Jeux vidéo : quand le plaisir vire à l’addiction / Logements partagés : le bon plan immobilier ? / Saint-Sébastien : le royaume des étoilés)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Jeux vidéo : quand le plaisir vire à l’addiction / Logements partagés : le bon plan immobilier ? / Saint-Sébastien : le royaume des étoilés)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. 66 minutes - S2025E02 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Jeux vidéo : quand le plaisir vire à l’addiction / Logements partagés : le bon plan immobilier ? / Saint-Sébastien : le royaume des étoilés)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series 66 minutes
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release '66.minutes.S2025E02.07.09.2025.FRENCH.1080p.WEB.H264-THESYNDiCATE (Jeux vidéo : quand le plaisir vire à l’addiction / Logements partagés : le bon plan immobilier ? / Saint-Sébastien : le royaume des étoilés)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Profs.de.fac.la.vocation.à.l'épreuve.2023.DOC.FRENCH.1080p.WEB.x265-WW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Profs.de.fac.la.vocation.à.l'épreuve.2023.DOC.FRENCH.1080p.WEB.x265-WW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Profs de fac la vocation à l'épreuve - S20E23 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Profs.de.fac.la.vocation.à.l'épreuve.2023.DOC.FRENCH.1080p.WEB.x265-WW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: WW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Profs de fac la vocation à l'épreuve
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Profs.de.fac.la.vocation.à.l'épreuve.2023.DOC.FRENCH.1080p.WEB.x265-WW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Natalie.Portman.Vom.Kinderstar.zur.Hollywood.Ikone.2025.DOC.FRENCH.1080p.WEB.h264-WW (Natalie Portman, de l'enfant star à l'actrice iconique)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Natalie.Portman.Vom.Kinderstar.zur.Hollywood.Ikone.2025.DOC.FRENCH.1080p.WEB.h264-WW (Natalie Portman, de l'enfant star à l'actrice iconique)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Natalie Portman Vom Kinderstar zur Hollywood Ikone - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Natalie.Portman.Vom.Kinderstar.zur.Hollywood.Ikone.2025.DOC.FRENCH.1080p.WEB.h264-WW (Natalie Portman, de l'enfant star à l'actrice iconique)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: WW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Natalie Portman Vom Kinderstar zur Hollywood Ikone
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Natalie.Portman.Vom.Kinderstar.zur.Hollywood.Ikone.2025.DOC.FRENCH.1080p.WEB.h264-WW (Natalie Portman, de l'enfant star à l'actrice iconique)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Necaxa.S01E08.DOC.VOSTFR.1080p.WEB.H264-FW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Necaxa.S01E08.DOC.VOSTFR.1080p.WEB.H264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Necaxa - S01E08 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Necaxa.S01E08.DOC.VOSTFR.1080p.WEB.H264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Necaxa
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Necaxa.S01E08.DOC.VOSTFR.1080p.WEB.H264-FW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Women.Wearing.Shoulder.Pads.S01E05.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Women.Wearing.Shoulder.Pads.S01E05.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Women Wearing Shoulder Pads - S01E05 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Women.Wearing.Shoulder.Pads.S01E05.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Women Wearing Shoulder Pads
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Women.Wearing.Shoulder.Pads.S01E05.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Voyage.en.cuisine.Vietnam.le.nem.2025.DOC.FRENCH.1080p.WEB.h264-WW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Voyage.en.cuisine.Vietnam.le.nem.2025.DOC.FRENCH.1080p.WEB.h264-WW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Voyage en cuisine Vietnam le nem - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Voyage.en.cuisine.Vietnam.le.nem.2025.DOC.FRENCH.1080p.WEB.h264-WW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: WW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Voyage en cuisine Vietnam le nem
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Voyage.en.cuisine.Vietnam.le.nem.2025.DOC.FRENCH.1080p.WEB.h264-WW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Task.S01E01.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Task.S01E01.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.MULTi.1080p.WEB.x264-FW'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Task.S01E01.MULTi.1080p.WEB.x264-FW' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Task.S01E01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Task.S01E01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Task.S01E01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Task.S01E01.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Task.S01E01.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Task - S01E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Task.S01E01.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Task
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Task.S01E01.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: KAF
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One.Piece.E1142.VOSTFR.1080p.WEBRiP.x265-KAF' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Marlene Dietrich et Erich Maria Remarque - La passion et l'exil.2025.FR.WEB.1080p.x264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Marlene Dietrich et Erich Maria Remarque - La passion et l'exil.2025.FR.WEB.1080p.x264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Marlene Dietrich et Erich Maria Remarque - La passion et l'exil - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Marlene Dietrich et Erich Maria Remarque - La passion et l'exil.2025.FR.WEB.1080p.x264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Marlene Dietrich et Erich Maria Remarque - La passion et l'exil
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Marlene Dietrich et Erich Maria Remarque - La passion et l'exil.2025.FR.WEB.1080p.x264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H265-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H265-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Gachiakuta.S01E09.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Gachiakuta.S01E09.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Gachiakuta - S01E09 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Gachiakuta.S01E09.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Gachiakuta
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Gachiakuta.S01E09.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. DANDADAN - S02E10 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: DANDADAN. TVDB ID for mapping: 432832
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series DANDADAN
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: DANDADAN. TVDB ID for mapping: 432832
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'DANDADAN.S02E10.MULTi.1080p.WEB.x264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] DANDADAN matches an alias for series with TVDB ID: 432832
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Clevatess.S01E10.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Clevatess.S01E10.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Clevatess - S01E10 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Clevatess.S01E10.MULTi.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Clevatess
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Clevatess.S01E10.MULTi.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Unable to parse Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Unable to parse Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Grands.Reportages.Reportages.decouverte.Les.secrets.des.clubs.de.vacances.FRENCH.1080p.WEB.H264-THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.Costa.da.Morte.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.Costa.da.Morte.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.Costa.da.Morte.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.Costa.da.Morte.MULTi.1080p.WEB.DDP.x264-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'K.O.2025.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'K.O.2025.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. K O - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'K.O.2025.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series K O
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'K.O.2025.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Motocross MXGP - MX2 2025 Round 18 Turquie French hdtv 1080p H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Motocross MXGP - MX2 2025 Round 18 Turquie French hdtv 1080p H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Motocross MXGP - MX2 - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Motocross MXGP - MX2 2025 Round 18 Turquie French hdtv 1080p H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Motocross MXGP - MX2
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Motocross MXGP - MX2 2025 Round 18 Turquie French hdtv 1080p H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Unorthodox - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Unorthodox
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.FASTSUB.VOSTFR.1080p.ATVP.WEB-DL.DD5.1.H264-BOUC' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.FASTSUB.VOSTFR.1080p.ATVP.WEB-DL.DD5.1.H264-BOUC'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.FASTSUB.VOSTFR.1080p.ATVP.WEB-DL.DD5.1.H264-BOUC'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: BOUC
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.FASTSUB.VOSTFR.1080p.ATVP.WEB-DL.DD5.1.H264-BOUC' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-SUPPLY' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-SUPPLY'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-SUPPLY'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: SUPPLY
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E01.MULTi.1080p.WEB.H264-SUPPLY' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Unorthodox - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Unorthodox
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Unorthodox.S01.MULTi.1080p.NF.WEB.DDP.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Capital.S38E22.Speciale.rentree.jusqu.ou.iront.les.nouveaux.casseurs.de.prix.DOC.FRENCH.1080p.WEB.H264-BOUBA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Capital.S38E22.Speciale.rentree.jusqu.ou.iront.les.nouveaux.casseurs.de.prix.DOC.FRENCH.1080p.WEB.H264-BOUBA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Capital - S38E22 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Capital.S38E22.Speciale.rentree.jusqu.ou.iront.les.nouveaux.casseurs.de.prix.DOC.FRENCH.1080p.WEB.H264-BOUBA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: BOUBA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Capital
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Capital.S38E22.Speciale.rentree.jusqu.ou.iront.les.nouveaux.casseurs.de.prix.DOC.FRENCH.1080p.WEB.H264-BOUBA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Yamishibai Japanese Ghost Stories - S15E09 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Tsundere-Raws
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Yamishibai Japanese Ghost Stories. TVDB ID for mapping: 271591
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Yamishibai Japanese Ghost Stories
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Yamishibai Japanese Ghost Stories. TVDB ID for mapping: 271591
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Yamishibai.Japanese.Ghost.Stories.S15E09.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Yamishibai Japanese Ghost Stories matches an alias for series with TVDB ID: 271591
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Kaerizaki
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece E1142 VOSTFR 720p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Kaerizaki
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece E1142 VOSTFR Version Light 1080p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Kaerizaki
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece E1142 VOSTFR 1080p HDTV x264-Kaerizaki Fansub' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Kaerizaki
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece E1142 VOSTFR 1080p 10Bits HDTV x265-Kaerizaki Fansub' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Rugby top 14 Clermont vs Toulouse 07 09 25 Web dl 1080P x264 Vff' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Rugby top 14 Clermont vs Toulouse 07 09 25 Web dl 1080P x264 Vff'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Rugby top - 014 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Rugby top 14 Clermont vs Toulouse 07 09 25 Web dl 1080P x264 Vff'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Rugby top
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Rugby top 14 Clermont vs Toulouse 07 09 25 Web dl 1080P x264 Vff' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Gardener.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (El jardinero)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Gardener.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (El jardinero)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Gardener - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Gardener.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (El jardinero)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Gardener
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Gardener.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (El jardinero)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'UNTAMED.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (Une nature sauvage)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'UNTAMED.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (Une nature sauvage)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. UNTAMED - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'UNTAMED.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (Une nature sauvage)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series UNTAMED
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'UNTAMED.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE (Une nature sauvage)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Porsche Supercup 2025 Manche 8_Grand Prix d'Italie 2025 FRENCH 1080p Canal+ HDTV H264 (rentry)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Porsche Supercup 2025 Manche 8_Grand Prix d'Italie 2025 FRENCH 1080p Canal+ HDTV H264 (rentry)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Porsche Supercup - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Porsche Supercup 2025 Manche 8_Grand Prix d'Italie 2025 FRENCH 1080p Canal+ HDTV H264 (rentry)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Porsche Supercup
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Porsche Supercup 2025 Manche 8_Grand Prix d'Italie 2025 FRENCH 1080p Canal+ HDTV H264 (rentry)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Zero Day 2025 - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Zero Day 2025
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.AV1-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Zero Day 2025 - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Zero Day 2025
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Zero.Day.2025.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Tous.En.Cuisine.Avec.Cyril.Lignac.S10E01.FRENCH.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Tous.En.Cuisine.Avec.Cyril.Lignac.S10E01.FRENCH.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Tous En Cuisine Avec Cyril Lignac - S10E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Tous.En.Cuisine.Avec.Cyril.Lignac.S10E01.FRENCH.1080p.WEB.H264-TFA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TFA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Tous En Cuisine Avec Cyril Lignac
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Tous.En.Cuisine.Avec.Cyril.Lignac.S10E01.FRENCH.1080p.WEB.H264-TFA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Queen s Gambit - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Queen s Gambit
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.HDR10Plus.AV1-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Queen s Gambit - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Queen s Gambit
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.DV.HDR.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Queen s Gambit - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Queen s Gambit
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Queen.s.Gambit.S01.MULTi.AD.1080p.NF.WEB.DDP.H265-THESYNDiCATE (Le Jeu de la dame / The Queen's Gambit)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - S01E1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece S01E1142 VOSTFR WebRip 1080p x265 10bits AAC' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Nyaight.of.the.Living.Cat.S01E07.MULTI.1080p.CR.WEB.x264-TenmaLand' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Nyaight.of.the.Living.Cat.S01E07.MULTI.1080p.CR.WEB.x264-TenmaLand'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Nyaight of the Living Cat - S01E07 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Nyaight.of.the.Living.Cat.S01E07.MULTI.1080p.CR.WEB.x264-TenmaLand'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: TenmaLand
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Nyaight of the Living Cat
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Nyaight.of.the.Living.Cat.S01E07.MULTI.1080p.CR.WEB.x264-TenmaLand' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. One Piece - 1142 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Notag
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag'
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag'
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'One Piece E1142 VOSTFR 1080p WEB x264 AAC-Notag' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'The.Brokenwood.Mysteries.S10E01.FRENCH.720p.France3.HDTV.H264 (Brokenwood)' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'The.Brokenwood.Mysteries.S10E01.FRENCH.720p.France3.HDTV.H264 (Brokenwood)'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. The Brokenwood Mysteries - S10E01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'The.Brokenwood.Mysteries.S10E01.FRENCH.720p.France3.HDTV.H264 (Brokenwood)'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series The Brokenwood Mysteries
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'The.Brokenwood.Mysteries.S10E01.FRENCH.720p.France3.HDTV.H264 (Brokenwood)' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Adolescence - Season 01 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: THESYNDiCATE
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Adolescence. TVDB ID for mapping: 452467
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Adolescence
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Adolescence. TVDB ID for mapping: 452467
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Adolescence.S01.MULTi.AD.1080p.NF.WEB.DDP.Atmos.H265-THESYNDiCATE' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Adolescence matches an alias for series with TVDB ID: 452467
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Rugby World Cup 2025.Womens.R03.France vs Afrique du Sud.French.WEB.1080p.h264-Freek911' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Rugby World Cup 2025.Womens.R03.France vs Afrique du Sud.French.WEB.1080p.h264-Freek911'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Rugby World Cup - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Rugby World Cup 2025.Womens.R03.France vs Afrique du Sud.French.WEB.1080p.h264-Freek911'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Freek911
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Rugby World Cup
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Rugby World Cup 2025.Womens.R03.France vs Afrique du Sud.French.WEB.1080p.h264-Freek911' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Rugby Championship.2025.R3.Australie vs Argentine.English.WEB.1080p.x264-NoGRP' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Rugby Championship.2025.R3.Australie vs Argentine.English.WEB.1080p.x264-NoGRP'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Rugby Championship - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: English
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Rugby Championship.2025.R3.Australie vs Argentine.English.WEB.1080p.x264-NoGRP'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: NoGRP
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Rugby Championship
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Rugby Championship.2025.R3.Australie vs Argentine.English.WEB.1080p.x264-NoGRP' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E03.Islamisme.la.gauche.s'enfonce.dans.la.collaboration.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E03.Islamisme.la.gauche.s'enfonce.dans.la.collaboration.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Frontieres+ Les Vendredis Cormier-Denis - S01E03 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E03.Islamisme.la.gauche.s'enfonce.dans.la.collaboration.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Frontieres+ Les Vendredis Cormier-Denis
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E03.Islamisme.la.gauche.s'enfonce.dans.la.collaboration.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E04.Trump.et.Musk.La.rupture.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E04.Trump.et.Musk.La.rupture.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Frontieres+ Les Vendredis Cormier-Denis - S01E04 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E04.Trump.et.Musk.La.rupture.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Frontieres+ Les Vendredis Cormier-Denis
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E04.Trump.et.Musk.La.rupture.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'WSBK.Superbike.2025.094.GP#09.France.Magny-Cours.06.07.09.Courses.Dimanche.RTBF.WEB.VFF.720p.H264.AAC' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'WSBK.Superbike.2025.094.GP#09.France.Magny-Cours.06.07.09.Courses.Dimanche.RTBF.WEB.VFF.720p.H264.AAC'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. WSBK Superbike 2025 - 094 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'WSBK.Superbike.2025.094.GP#09.France.Magny-Cours.06.07.09.Courses.Dimanche.RTBF.WEB.VFF.720p.H264.AAC'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series WSBK Superbike 2025
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'WSBK.Superbike.2025.094.GP#09.France.Magny-Cours.06.07.09.Courses.Dimanche.RTBF.WEB.VFF.720p.H264.AAC' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E05.Dissolution.de.la.Jeune.Garde.la.fin.de.l'impunité.pour.l'extrême.gauche.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E05.Dissolution.de.la.Jeune.Garde.la.fin.de.l'impunité.pour.l'extrême.gauche.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Frontieres+ Les Vendredis Cormier-Denis - S01E05 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E05.Dissolution.de.la.Jeune.Garde.la.fin.de.l'impunité.pour.l'extrême.gauche.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Frontieres+ Les Vendredis Cormier-Denis
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E05.Dissolution.de.la.Jeune.Garde.la.fin.de.l'impunité.pour.l'extrême.gauche.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E06.Commission.d'enquête.sur.LFI.Une.victoire.sur.l'islamogauchisme.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E06.Commission.d'enquête.sur.LFI.Une.victoire.sur.l'islamogauchisme.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Frontieres+ Les Vendredis Cormier-Denis - S01E06 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E06.Commission.d'enquête.sur.LFI.Une.victoire.sur.l'islamogauchisme.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Frontieres+ Les Vendredis Cormier-Denis
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E06.Commission.d'enquête.sur.LFI.Une.victoire.sur.l'islamogauchisme.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Les Mysteres de l amour - S37E05 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: AwA
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Les Mysteres de l amour. TVDB ID for mapping: 233981
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Les Mysteres de l amour
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|SceneMappingService|Found scene mapping for: Les Mysteres de l amour. TVDB ID for mapping: 233981
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Les.Mysteres.de.l.amour.S37E05.FRENCH.1080p.WEB.H264-AwA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Les Mysteres de l amour matches an alias for series with TVDB ID: 233981
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Les.Cinquante.S04E16.FRENCH.1080p.WEB.H264-AwA' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Les.Cinquante.S04E16.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Les Cinquante - S04E16 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Les.Cinquante.S04E16.FRENCH.1080p.WEB.H264-AwA'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: AwA
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Les Cinquante
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Les.Cinquante.S04E16.FRENCH.1080p.WEB.H264-AwA' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Rugby World Cup 2025.Womens.R03.Nouvelle Zélande vs Irlande.French.WEB.1080p.h264-Freek911' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Rugby World Cup 2025.Womens.R03.Nouvelle Zélande vs Irlande.French.WEB.1080p.h264-Freek911'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Rugby World Cup - S20E25 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Rugby World Cup 2025.Womens.R03.Nouvelle Zélande vs Irlande.French.WEB.1080p.h264-Freek911'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: Freek911
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Rugby World Cup
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Rugby World Cup 2025.Womens.R03.Nouvelle Zélande vs Irlande.French.WEB.1080p.h264-Freek911' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E07.Ensauvagement.de.la.France.la.Fête.de.la.musique.comme.révélateur.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E07.Ensauvagement.de.la.France.la.Fête.de.la.musique.comme.révélateur.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Episode Parsed. Frontieres+ Les Vendredis Cormier-Denis - S01E07 
+2025-09-10 03:54:17.9|Debug|Parser|Languages parsed: French
+2025-09-10 03:54:17.9|Debug|QualityParser|Trying to parse quality for 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E07.Ensauvagement.de.la.France.la.Fête.de.la.musique.comme.révélateur.2025.FRENCH.1080p.WEB.H264'
+2025-09-10 03:54:17.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:17.9|Debug|Parser|Release Group parsed: 
+2025-09-10 03:54:17.9|Debug|ParsingService|No matching series Frontieres+ Les Vendredis Cormier-Denis
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Release 'Frontieres+.Les.Vendredis.Cormier-Denis.S01E07.Ensauvagement.de.la.France.la.Fête.de.la.musique.comme.révélateur.2025.FRENCH.1080p.WEB.H264' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:17.9|Debug|DownloadDecisionMaker|Processing release 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)'
+2025-09-10 03:54:17.9|Debug|Parser|Parsing string 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:18.0|Debug|Parser|Episode Parsed. One Piece - S01E1142 
+2025-09-10 03:54:18.0|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:18.0|Debug|QualityParser|Trying to parse quality for 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:18.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-10 03:54:18.0|Debug|Parser|Release Group parsed: Tsundere-Raws
+2025-09-10 03:54:18.0|Debug|Parser|Parsing string 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:18.0|Debug|ParsingService|No matching series One Piece
+2025-09-10 03:54:18.0|Debug|Parser|Parsing string 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws'
+2025-09-10 03:54:18.0|Debug|DownloadDecisionMaker|Release 'One.Piece.S01E1142.SUBFRENCH.1080p.CR.WEB.x264.AAC-Tsundere-Raws' from 'YggAPI (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-10 03:54:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-10 03:54:18.0|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-10 03:54:39.9|Debug|Parser|Parsing string 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:54:39.9|Debug|Parser|Episode Parsed. Alien Earth - S01E06 
+2025-09-10 03:54:39.9|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:54:39.9|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:54:39.9|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-10 03:54:39.9|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:54:39.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-09-10 03:54:39.9|Debug|AggregateLanguages|Selected languages: English
+2025-09-10 03:56:10.0|Debug|Parser|Parsing string 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:56:10.0|Debug|Parser|Episode Parsed. Alien Earth - S01E06 
+2025-09-10 03:56:10.0|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:56:10.0|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:56:10.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-10 03:56:10.0|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:56:10.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-09-10 03:56:10.0|Debug|AggregateLanguages|Selected languages: English
+2025-09-10 03:56:40.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-10 03:57:40.0|Debug|Parser|Parsing string 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:57:40.0|Debug|Parser|Episode Parsed. Alien Earth - S01E06 
+2025-09-10 03:57:40.0|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:57:40.0|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:57:40.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-10 03:57:40.0|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:57:40.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-09-10 03:57:40.0|Debug|AggregateLanguages|Selected languages: English
+2025-09-10 03:59:10.0|Debug|Parser|Parsing string 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:59:10.0|Debug|Parser|Episode Parsed. Alien Earth - S01E06 
+2025-09-10 03:59:10.0|Debug|Parser|Languages parsed: Unknown
+2025-09-10 03:59:10.0|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW'
+2025-09-10 03:59:10.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-10 03:59:10.0|Debug|Parser|Release Group parsed: FW
+2025-09-10 03:59:10.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2025-09-10 03:59:10.0|Debug|AggregateLanguages|Selected languages: English

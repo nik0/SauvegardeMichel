@@ -9,6 +9,7 @@ services:
       - GROUP_ID=1000
     volumes:
       - /docker/appdata/jdownloader-2:/config:rw
+      - /home/michel/.local:/mnamer:rw
       - /mnt/disk1/media/Series:/Series:rw
       - /mnt/disk2/media/Films:/Films:rw
     restart: unless-stopped

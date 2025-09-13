@@ -2379,3 +2379,447 @@
 2025-09-12 03:50:49.7|Info|RssSyncService|Starting RSS Sync
 2025-09-12 03:50:57.1|Info|DownloadDecisionMaker|Processing 300 releases
 2025-09-12 03:50:57.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 04:06:19.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 04:06:27.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 04:06:27.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 04:21:49.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 04:21:57.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 04:21:57.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 04:27:05.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 04:27:05.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 04:27:05.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 04:27:05.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 04:37:20.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 04:37:27.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 04:37:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 04:52:50.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 04:52:57.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 04:52:58.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 05:08:20.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 05:08:27.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 05:08:28.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 05:19:50.3|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 05:23:50.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 05:23:57.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 05:23:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 05:39:20.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 05:39:27.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 05:39:28.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 05:54:50.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 05:54:58.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 05:54:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 06:10:20.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 06:10:28.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 06:10:29.1|Info|DownloadService|Report sent to qBittorrent. Indexer YggAPI (Prowlarr). Chief.of.War.S01E08.MULTi.HDR.DV.2160p.WEB.H265-TFA
+2025-09-12 06:10:29.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 1
+2025-09-12 06:25:50.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 06:25:58.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 06:25:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 06:41:21.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 06:41:28.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 06:41:29.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 06:56:51.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 06:56:58.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 06:56:59.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 07:02:46.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 07:02:46.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 07:12:21.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 07:12:36.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://localhost:9696/1/api?t=tvsearch&cat=5000,5050,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (145 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 9/12/2025 7:13:35 AM due to recent failures." />
+2025-09-12 07:12:36.1|Warn|Torznab|API Request Limit reached for YggAPI (Prowlarr). Disabled for 00:01:00
+2025-09-12 07:12:36.1|Info|DownloadDecisionMaker|No results found
+2025-09-12 07:12:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-12 07:27:51.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 07:27:58.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 07:27:59.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 07:43:21.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 07:43:28.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 07:43:29.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 07:52:07.2|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 07:52:07.2|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 07:58:51.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 07:58:56.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://localhost:9696/1/api?t=tvsearch&cat=5000,5050,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (145 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 9/12/2025 7:59:56 AM due to recent failures." />
+2025-09-12 07:58:56.7|Warn|Torznab|API Request Limit reached for YggAPI (Prowlarr). Disabled for 00:01:00
+2025-09-12 07:58:56.7|Info|DownloadDecisionMaker|No results found
+2025-09-12 07:58:56.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-12 08:10:41.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 08:10:41.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 08:14:21.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 08:14:29.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 08:14:29.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 08:19:51.7|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 08:29:51.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 08:29:59.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 08:30:00.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 08:45:21.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 08:45:29.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 08:45:30.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 09:00:52.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 09:00:59.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 09:01:00.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 09:16:22.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 09:16:29.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 09:16:31.6|Info|DownloadService|Report sent to qBittorrent. Indexer YggAPI (Prowlarr). Foundation.S03E10.FiNAL.MULTi.HDR.DV.2160p.WEB.H265-TFA
+2025-09-12 09:16:33.0|Info|DownloadService|Report sent to qBittorrent. Indexer YggAPI (Prowlarr). Invasion.S03E04.MULTi.HDR.DV.2160p.WEB.H265-TFA
+2025-09-12 09:16:33.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 2
+2025-09-12 09:28:15.7|Info|Auth|Auth-Success ip 192.*.*.137 username 'nik0'
+2025-09-12 09:28:15.7|Info|Auth|Auth-Success ip 192.*.*.137 username 'nik0'
+2025-09-12 09:31:52.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 09:32:00.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 09:32:01.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 09:47:22.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 09:47:29.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 09:47:30.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 10:02:52.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 10:03:00.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 10:03:00.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 10:18:22.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 10:18:30.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 10:18:30.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 10:33:52.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 10:34:00.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 10:34:01.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 10:49:22.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 10:49:30.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 10:49:31.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 11:04:52.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 11:05:00.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 11:05:01.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 11:16:23.0|Info|HousekeepingService|Running housecleaning tasks
+2025-09-12 11:16:23.0|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-09-12 11:16:23.0|Info|Database|Vacuuming Log database
+2025-09-12 11:16:23.1|Info|Database|Log database compressed
+2025-09-12 11:16:23.1|Info|Database|Vacuuming Main database
+2025-09-12 11:16:23.1|Info|Database|Main database compressed
+2025-09-12 11:18:53.0|Info|RefreshSeriesService|Updating Alien: Earth
+2025-09-12 11:18:53.3|Info|RefreshEpisodeService|Starting episode info refresh for: [458912][Alien: Earth]
+2025-09-12 11:18:53.3|Info|RefreshEpisodeService|Finished episode refresh for series: [458912][Alien: Earth].
+2025-09-12 11:18:53.5|Info|DiskScanService|Scanning Alien: Earth
+2025-09-12 11:18:53.5|Info|DiskScanService|Completed scanning disk for Alien: Earth
+2025-09-12 11:18:53.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 11:18:53.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 11:18:53.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 11:18:53.5|Info|ExistingExtraFileService|Found 11 possible extra files, imported 8 files.
+2025-09-12 11:18:53.5|Info|RefreshSeriesService|Updating Chief of War
+2025-09-12 11:18:53.6|Info|RefreshEpisodeService|Starting episode info refresh for: [418633][Chief of War]
+2025-09-12 11:18:53.6|Info|RefreshEpisodeService|Finished episode refresh for series: [418633][Chief of War].
+2025-09-12 11:18:53.6|Info|DiskScanService|Scanning Chief of War
+2025-09-12 11:18:53.6|Info|DiskScanService|Completed scanning disk for Chief of War
+2025-09-12 11:18:53.6|Info|ExistingMetadataImporter|Found 1 existing metadata files
+2025-09-12 11:18:53.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 11:18:53.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 11:18:53.7|Info|ExistingExtraFileService|Found 13 possible extra files, imported 10 files.
+2025-09-12 11:18:53.7|Info|RefreshSeriesService|Updating Dexter: Resurrection
+2025-09-12 11:18:53.7|Info|RefreshEpisodeService|Starting episode info refresh for: [452595][Dexter: Resurrection]
+2025-09-12 11:18:53.7|Info|RefreshEpisodeService|Finished episode refresh for series: [452595][Dexter: Resurrection].
+2025-09-12 11:18:53.7|Info|DiskScanService|Scanning Dexter: Resurrection
+2025-09-12 11:18:53.9|Info|DiskScanService|Completed scanning disk for Dexter: Resurrection
+2025-09-12 11:18:53.9|Info|ExistingMetadataImporter|Found 1 existing metadata files
+2025-09-12 11:18:53.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 11:18:53.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 11:18:53.9|Info|ExistingExtraFileService|Found 15 possible extra files, imported 12 files.
+2025-09-12 11:18:54.0|Info|RefreshSeriesService|Updating Foundation (2021)
+2025-09-12 11:18:54.0|Info|RefreshEpisodeService|Starting episode info refresh for: [366972][Foundation (2021)]
+2025-09-12 11:18:54.1|Info|RefreshEpisodeService|Finished episode refresh for series: [366972][Foundation (2021)].
+2025-09-12 11:18:54.1|Info|DiskScanService|Scanning Foundation (2021)
+2025-09-12 11:18:54.1|Info|DiskScanService|Completed scanning disk for Foundation (2021)
+2025-09-12 11:18:54.1|Info|ExistingMetadataImporter|Found 1 existing metadata files
+2025-09-12 11:18:54.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 11:18:54.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 11:18:54.1|Info|ExistingExtraFileService|Found 7 possible extra files, imported 4 files.
+2025-09-12 11:18:54.1|Info|RefreshSeriesService|Updating Invasion (2021)
+2025-09-12 11:18:54.2|Info|RefreshEpisodeService|Starting episode info refresh for: [404492][Invasion (2021)]
+2025-09-12 11:18:54.2|Info|RefreshEpisodeService|Finished episode refresh for series: [404492][Invasion (2021)].
+2025-09-12 11:18:54.2|Info|DiskScanService|Scanning Invasion (2021)
+2025-09-12 11:18:54.2|Info|DiskScanService|Completed scanning disk for Invasion (2021)
+2025-09-12 11:18:54.2|Info|ExistingMetadataImporter|Found 3 existing metadata files
+2025-09-12 11:18:54.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 11:18:54.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 11:18:54.2|Info|ExistingExtraFileService|Found 6 possible extra files, imported 3 files.
+2025-09-12 11:20:23.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 11:20:23.0|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 11:20:33.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 11:20:34.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 11:35:07.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 11:35:07.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 11:35:07.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 11:35:07.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 11:35:08.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 11:35:08.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 11:35:09.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 11:35:09.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 11:35:53.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 11:36:00.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 11:36:01.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 11:51:23.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 11:51:30.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 11:51:31.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 12:06:53.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 12:07:01.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 12:07:02.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 12:22:23.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 12:22:31.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 12:22:32.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 12:37:53.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 12:38:01.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 12:38:01.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 12:53:23.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 12:53:31.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 12:53:32.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 13:08:53.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 13:09:01.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 13:09:02.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 13:24:23.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 13:24:31.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 13:24:32.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 13:39:53.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 13:40:01.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 13:40:02.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 13:55:24.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 13:55:31.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 13:55:32.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 14:10:54.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 14:11:02.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 14:11:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 14:20:54.2|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 14:26:24.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 14:26:32.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 14:26:33.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 14:41:54.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 14:42:01.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 14:42:02.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 14:57:24.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 14:57:31.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 14:57:32.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 15:12:54.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 15:13:02.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 15:13:02.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 15:28:24.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 15:28:31.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 15:28:32.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 15:43:54.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 15:44:02.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 15:44:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 15:45:53.0|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 15:45:53.0|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 15:59:24.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 15:59:32.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 15:59:32.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 16:14:54.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 16:15:10.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 16:15:10.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 16:30:25.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 16:30:32.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 16:30:33.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 16:45:55.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 16:46:02.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 16:46:03.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 17:01:25.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 17:01:32.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 17:01:33.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 17:16:55.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 17:17:02.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 17:17:03.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 17:20:55.4|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 17:32:21.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 17:32:21.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 17:32:25.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 17:32:33.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 17:32:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 17:47:55.6|Info|RssSyncService|Starting RSS Sync
+2025-09-12 17:48:03.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 17:48:03.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 17:54:24.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 17:54:24.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 18:03:25.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 18:03:33.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 18:03:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 18:18:55.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 18:19:03.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 18:19:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 18:34:26.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 18:34:33.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 18:34:34.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 18:49:56.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 18:50:03.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 18:50:04.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 19:05:26.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 19:05:33.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 19:05:34.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 19:20:56.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 19:21:03.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 19:21:04.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 19:36:26.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 19:36:33.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 19:36:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 19:37:51.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 19:37:51.3|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 19:37:51.8|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 19:37:51.8|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 19:37:53.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 19:37:53.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 19:37:54.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-12 19:37:54.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-12 19:51:56.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 19:52:04.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 19:52:04.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 20:07:26.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 20:07:34.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 20:07:34.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 20:20:56.8|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 20:22:56.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 20:23:04.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 20:23:05.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 20:38:26.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 20:38:34.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 20:38:35.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 20:53:57.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 20:54:04.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 20:54:05.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 21:09:27.2|Info|RssSyncService|Starting RSS Sync
+2025-09-12 21:09:43.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 21:09:44.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 21:24:57.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 21:25:04.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 21:25:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 21:40:27.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 21:40:34.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 21:40:35.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 21:55:57.5|Info|RssSyncService|Starting RSS Sync
+2025-09-12 21:56:05.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 21:56:05.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 22:11:27.7|Info|RssSyncService|Starting RSS Sync
+2025-09-12 22:11:35.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 22:11:35.8|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 22:26:57.8|Info|RssSyncService|Starting RSS Sync
+2025-09-12 22:27:05.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 22:27:05.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 22:42:27.9|Info|RssSyncService|Starting RSS Sync
+2025-09-12 22:42:35.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 22:42:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 22:57:58.0|Info|RssSyncService|Starting RSS Sync
+2025-09-12 22:58:05.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 22:58:06.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 23:13:28.1|Info|RssSyncService|Starting RSS Sync
+2025-09-12 23:13:35.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 23:13:36.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 23:18:58.2|Info|RefreshSeriesService|Updating Alien: Earth
+2025-09-12 23:18:58.5|Info|RefreshEpisodeService|Starting episode info refresh for: [458912][Alien: Earth]
+2025-09-12 23:18:58.5|Info|RefreshEpisodeService|Finished episode refresh for series: [458912][Alien: Earth].
+2025-09-12 23:18:58.7|Info|DiskScanService|Scanning Alien: Earth
+2025-09-12 23:18:58.7|Info|DiskScanService|Completed scanning disk for Alien: Earth
+2025-09-12 23:18:58.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 23:18:58.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 23:18:58.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 23:18:58.7|Info|ExistingExtraFileService|Found 11 possible extra files, imported 8 files.
+2025-09-12 23:18:58.7|Info|RefreshSeriesService|Updating Chief of War
+2025-09-12 23:18:58.8|Info|RefreshEpisodeService|Starting episode info refresh for: [418633][Chief of War]
+2025-09-12 23:18:58.8|Info|RefreshEpisodeService|Finished episode refresh for series: [418633][Chief of War].
+2025-09-12 23:18:58.8|Info|DiskScanService|Scanning Chief of War
+2025-09-12 23:18:58.8|Info|DiskScanService|Completed scanning disk for Chief of War
+2025-09-12 23:18:58.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 23:18:58.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 23:18:58.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 23:18:58.8|Info|ExistingExtraFileService|Found 13 possible extra files, imported 10 files.
+2025-09-12 23:18:58.8|Info|RefreshSeriesService|Updating Dexter: Resurrection
+2025-09-12 23:18:58.9|Info|RefreshEpisodeService|Starting episode info refresh for: [452595][Dexter: Resurrection]
+2025-09-12 23:18:58.9|Info|RefreshEpisodeService|Finished episode refresh for series: [452595][Dexter: Resurrection].
+2025-09-12 23:18:58.9|Info|DiskScanService|Scanning Dexter: Resurrection
+2025-09-12 23:18:59.0|Info|DiskScanService|Completed scanning disk for Dexter: Resurrection
+2025-09-12 23:18:59.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 23:18:59.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 23:18:59.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 23:18:59.0|Info|ExistingExtraFileService|Found 15 possible extra files, imported 12 files.
+2025-09-12 23:18:59.0|Info|RefreshSeriesService|Updating Foundation (2021)
+2025-09-12 23:18:59.1|Info|RefreshEpisodeService|Starting episode info refresh for: [366972][Foundation (2021)]
+2025-09-12 23:18:59.1|Info|RefreshEpisodeService|Finished episode refresh for series: [366972][Foundation (2021)].
+2025-09-12 23:18:59.1|Info|DiskScanService|Scanning Foundation (2021)
+2025-09-12 23:18:59.1|Info|DiskScanService|Completed scanning disk for Foundation (2021)
+2025-09-12 23:18:59.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 23:18:59.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 23:18:59.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 23:18:59.1|Info|ExistingExtraFileService|Found 7 possible extra files, imported 4 files.
+2025-09-12 23:18:59.2|Info|RefreshSeriesService|Updating Invasion (2021)
+2025-09-12 23:18:59.2|Info|RefreshEpisodeService|Starting episode info refresh for: [404492][Invasion (2021)]
+2025-09-12 23:18:59.3|Info|RefreshEpisodeService|Finished episode refresh for series: [404492][Invasion (2021)].
+2025-09-12 23:18:59.3|Info|DiskScanService|Scanning Invasion (2021)
+2025-09-12 23:18:59.3|Info|DiskScanService|Completed scanning disk for Invasion (2021)
+2025-09-12 23:18:59.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-09-12 23:18:59.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-09-12 23:18:59.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-09-12 23:18:59.3|Info|ExistingExtraFileService|Found 6 possible extra files, imported 3 files.
+2025-09-12 23:20:58.2|Info|SceneMappingService|Updating Scene mappings
+2025-09-12 23:28:58.3|Info|RssSyncService|Starting RSS Sync
+2025-09-12 23:29:05.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 23:29:06.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 23:44:28.4|Info|RssSyncService|Starting RSS Sync
+2025-09-12 23:44:35.8|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-12 23:44:36.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-12 23:59:58.5|Info|RssSyncService|Starting RSS Sync
+2025-09-13 00:00:05.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 00:00:06.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 00:15:28.6|Info|RssSyncService|Starting RSS Sync
+2025-09-13 00:15:36.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 00:15:37.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 00:30:58.7|Info|RssSyncService|Starting RSS Sync
+2025-09-13 00:31:06.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 00:31:07.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 00:46:28.8|Info|RssSyncService|Starting RSS Sync
+2025-09-13 00:46:36.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 00:46:37.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 01:01:59.0|Info|RssSyncService|Starting RSS Sync
+2025-09-13 01:02:06.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 01:02:07.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 01:17:29.1|Info|RssSyncService|Starting RSS Sync
+2025-09-13 01:17:36.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 01:17:37.3|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 01:32:59.2|Info|RssSyncService|Starting RSS Sync
+2025-09-13 01:33:06.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 01:33:07.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 01:48:29.3|Info|RssSyncService|Starting RSS Sync
+2025-09-13 01:48:36.7|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 01:48:37.5|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 02:03:59.4|Info|RssSyncService|Starting RSS Sync
+2025-09-13 02:04:06.9|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 02:04:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 02:19:29.5|Info|RssSyncService|Starting RSS Sync
+2025-09-13 02:19:37.0|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 02:19:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 02:20:59.6|Info|SceneMappingService|Updating Scene mappings
+2025-09-13 02:34:59.7|Info|RssSyncService|Starting RSS Sync
+2025-09-13 02:35:07.1|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 02:35:07.9|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 02:50:29.8|Info|RssSyncService|Starting RSS Sync
+2025-09-13 02:50:37.2|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 02:50:38.0|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 02:53:33.5|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 02:53:33.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 02:53:33.6|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 03:05:59.9|Info|RssSyncService|Starting RSS Sync
+2025-09-13 03:06:10.5|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 03:06:11.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 03:21:30.0|Info|RssSyncService|Starting RSS Sync
+2025-09-13 03:21:37.4|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 03:21:38.2|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 03:37:00.1|Info|RssSyncService|Starting RSS Sync
+2025-09-13 03:37:07.3|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 03:37:08.1|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0
+2025-09-13 03:38:24.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 03:38:24.1|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 03:38:24.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 03:38:24.7|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 03:38:25.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 03:38:25.4|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 03:38:25.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2025-09-13 03:38:25.9|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|AuthenticationScheme: Basic was challenged.
+2025-09-13 03:52:30.2|Info|RssSyncService|Starting RSS Sync
+2025-09-13 03:52:37.6|Info|DownloadDecisionMaker|Processing 300 releases
+2025-09-13 03:52:38.4|Info|RssSyncService|RSS Sync Completed. Reports found: 300, Reports grabbed: 0

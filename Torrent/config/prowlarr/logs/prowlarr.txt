@@ -2096,3 +2096,202 @@ Service Unavailable
 2025-09-12 03:35:19.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
 2025-09-12 03:42:49.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
 2025-09-12 03:50:49.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 04:06:19.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 04:13:20.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 04:21:49.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 04:33:24.2|Info|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was challenged.
+2025-09-12 04:33:30.7|Info|Prowlarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was challenged.
+2025-09-12 04:37:20.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 04:43:50.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 04:52:50.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 05:08:20.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 05:14:20.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 05:23:50.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 05:39:20.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 05:44:50.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 05:54:50.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 06:10:20.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 06:15:21.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 06:25:50.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 06:41:21.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 06:45:51.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 06:56:51.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 07:12:21.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 07:12:21.6|Warn|Cardigann|Request for YggAPI failed with status ServiceUnavailable. Retrying in 2.4869269s.
+2025-09-12 07:12:29.6|Warn|Cardigann|Request for YggAPI failed with status ServiceUnavailable. Retrying in 1.8999378s.
+2025-09-12 07:12:32.4|Warn|Cardigann|Request for YggAPI failed with status ServiceUnavailable. Retrying in 2.9328039s.
+2025-09-12 07:12:35.8|Warn|Cardigann|HTTP Error - Res: HTTP/2.0 [GET] https://yggapi.eu/torrents?category_id=2145&category_id=2179&category_id=2181&category_id=2182&category_id=2184&category_id=2185&category_id=2186&category_id=2187&per_page=100&order_by=uploaded_at&page=2: 503.ServiceUnavailable (19 bytes)
+Service Unavailable
+2025-09-12 07:12:35.9|Warn|Cardigann|Unable to connect to YggAPI at [https://yggapi.eu/torrents?category_id=2145&category_id=2179&category_id=2181&category_id=2182&category_id=2184&category_id=2185&category_id=2186&category_id=2187&per_page=100&order_by=uploaded_at&page=2]. Indexer's server is unavailable. Try again later. HTTP request failed: [503:ServiceUnavailable] [GET] at [https://yggapi.eu/torrents?category_id=2145&category_id=2179&category_id=2181&category_id=2182&category_id=2184&category_id=2185&category_id=2186&category_id=2187&per_page=100&order_by=uploaded_at&page=2]
+
+[v2.0.5.5160] NzbDrone.Common.Http.HttpException: HTTP request failed: [503:ServiceUnavailable] [GET] at [https://yggapi.eu/torrents?category_id=2145&category_id=2179&category_id=2181&category_id=2182&category_id=2184&category_id=2185&category_id=2186&category_id=2187&per_page=100&order_by=uploaded_at&page=2]
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 701
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 428
+Service Unavailable
+
+
+2025-09-12 07:16:21.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 07:27:51.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 07:43:21.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 07:46:51.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 07:58:51.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 07:58:56.6|Warn|Cardigann|Unable to connect to indexer [https://yggapi.eu/torrents?category_id=2145&category_id=2179&category_id=2181&category_id=2182&category_id=2184&category_id=2185&category_id=2186&category_id=2187&per_page=100&order_by=uploaded_at&page=1]. This is typically caused by DNS/SSL issues. Check DNS settings, ensure IPv6 is working or disabled, and consider using different DNS servers or a VPN. See: 'https://wiki.servarr.com/prowlarr/troubleshooting#dns-ssl-connection-issues'
+
+[v2.0.5.5160] System.Net.Http.HttpRequestException: Resource temporarily unavailable (yggapi.eu:443)
+ ---> System.Net.Sockets.SocketException (11): Resource temporarily unavailable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp2ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./Prowlarr.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 665
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 664
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 428
+
+
+2025-09-12 08:14:21.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 08:17:22.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 08:29:51.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 08:45:21.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 08:47:52.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 09:00:52.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 09:16:22.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 09:18:22.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 09:31:52.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 09:47:22.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 09:48:52.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 10:02:52.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 10:18:22.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 10:19:22.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 10:33:52.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 10:49:22.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 10:49:53.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 11:04:52.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 11:20:23.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 11:20:23.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 11:35:53.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 11:47:50.0|Info|HousekeepingService|Running housecleaning tasks
+2025-09-12 11:47:50.0|Info|HistoryService|Removing items older than 30 days from history
+2025-09-12 11:47:50.1|Info|Database|Vacuuming Log database
+2025-09-12 11:47:50.1|Info|Database|Log database compressed
+2025-09-12 11:47:50.1|Info|Database|Vacuuming Main database
+2025-09-12 11:47:50.2|Info|Database|Main database compressed
+2025-09-12 11:50:53.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 11:51:23.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 12:06:53.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 12:21:23.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 12:22:23.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 12:37:53.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 12:51:54.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 12:53:23.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 13:08:53.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 13:22:24.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 13:24:23.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 13:39:53.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 13:52:54.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 13:55:24.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 14:10:54.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 14:23:24.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 14:26:24.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 14:41:54.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 14:53:55.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 14:57:24.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 15:12:54.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 15:24:25.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 15:28:24.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 15:43:54.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 15:54:55.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 15:59:24.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 16:14:55.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 16:14:55.9|Warn|Cardigann|Request for YggAPI failed with status ServiceUnavailable. Retrying in 1.9968195s.
+2025-09-12 16:25:25.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 16:30:25.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 16:45:55.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 16:55:55.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 17:01:25.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 17:16:55.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 17:26:26.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 17:32:25.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 17:47:55.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 17:56:56.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 18:03:25.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 18:18:55.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 18:27:26.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 18:34:26.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 18:49:56.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 18:57:56.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 19:05:26.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 19:20:56.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 19:28:27.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 19:36:26.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 19:51:56.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 19:58:57.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 20:07:26.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 20:22:56.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 20:29:27.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 20:38:26.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 20:53:57.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 20:59:57.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 21:09:27.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 21:09:28.2|Warn|Cardigann|Request for YggAPI failed with status ServiceUnavailable. Retrying in 2.4172298s.
+2025-09-12 21:24:57.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 21:30:27.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 21:40:27.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 21:55:57.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 22:00:58.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 22:11:27.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 22:26:57.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 22:31:28.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 22:42:27.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 22:57:58.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 23:01:58.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 23:13:28.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 23:28:58.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 23:32:28.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-12 23:44:28.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-12 23:59:58.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 00:02:59.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 00:15:28.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 00:30:58.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 00:33:29.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 00:46:28.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 01:01:59.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 01:03:59.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 01:17:29.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 01:32:59.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 01:34:29.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 01:48:29.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 02:03:59.4|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 02:04:59.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 02:19:29.6|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 02:34:59.7|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 02:35:30.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 02:50:29.8|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 03:05:59.9|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 03:06:00.3|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 03:21:30.0|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 03:36:30.5|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2025-09-13 03:37:00.1|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
+2025-09-13 03:52:30.2|Info|ReleaseSearchService|Searching indexer(s): [YggAPI] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5070]
